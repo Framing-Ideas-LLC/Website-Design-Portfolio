@@ -56,7 +56,7 @@ At Framing Ideas, we believe every website should not only look exceptional but 
 🌍 Website: https://framingideas.com
 🎨 Behance: https://www.behance.net/framingideas20
 💼 LinkedIn: https://www.linkedin.com/company/framingideas 
-💼 LinkTree: https://linktr.ee/framingideas20
+💼 LinkTree: https://linktr.ee/framingideas20 
 📧 Email: [framingideas20@gmail.com](mailto:framingideas20@gmail.com)
 
 ---
