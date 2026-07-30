@@ -1,32 +1,44 @@
-📱 Figma UI/UX Design Portfolio
-Welcome to my Figma UI/UX Design Portfolio—a curated collection of mobile application interfaces, user experiences, and digital product designs created for startups, businesses, and enterprise clients.
+# 🎨 Figma Website UI/UX Design Portfolio
 
-This repository showcases my approach to designing intuitive, user-centered, and visually engaging experiences, covering every stage of the design process from wireframes to high-fidelity prototypes.
+Welcome to my Figma Website UI/UX Design Portfolio—a collection of modern, user-centered website designs created for businesses, startups, and brands across various industries.
 
-What You'll Find
-Mobile App UI Design
-User Experience (UX) Design
-Wireframes & User Flows
-Interactive Figma Prototypes
-Design Systems & Component Libraries
-Dashboard & SaaS Interfaces
-E-commerce Applications
-Healthcare, Finance & Business Apps
-Landing Pages & Web Interfaces
-Design Process
-Research & Discovery
-User Journey Mapping
-Wireframing
-UI Design
-Prototyping
-Design System Creation
-Usability & Iteration
-Tools
-Figma
-FigJam
-Adobe Illustrator
-Adobe Photoshop
-About
-I specialize in creating modern, scalable, and user-focused digital experiences that balance aesthetics with usability. Every project is designed with attention to accessibility, consistency, and real-world user needs.
+This repository showcases my work in designing clean, intuitive, and conversion-focused website interfaces. From wireframes to high-fidelity UI designs and interactive prototypes, each project is crafted with usability, accessibility, and visual consistency in mind.
 
-⭐ Feel free to explore the projects, and don't forget to star the repository if you find it inspiring.
+## Portfolio Includes
+
+- Landing Page Design
+- Business & Corporate Websites
+- SaaS & Startup Platforms
+- E-commerce Website UI
+- Healthcare & Medical Websites
+- Real Estate Websites
+- Portfolio & Agency Websites
+- Dashboard & Admin Interfaces
+- Responsive Website Designs
+- Design Systems & UI Components
+
+## Design Process
+
+- UX Research & Strategy
+- Information Architecture
+- Wireframing
+- High-Fidelity UI Design
+- Interactive Prototyping
+- Responsive Design
+- Design Systems
+- Usability Testing & Iteration
+
+## Tools
+
+- Figma
+- FigJam
+- Adobe Illustrator
+- Adobe Photoshop
+
+## About
+
+My focus is on creating modern, responsive, and user-friendly website experiences that align with business goals while delivering exceptional usability and visual appeal. Every design is built with scalability, consistency, and real-world implementation in mind.
+
+---
+
+⭐ Feel free to explore the projects and don't forget to star this repository if you find the work inspiring.
