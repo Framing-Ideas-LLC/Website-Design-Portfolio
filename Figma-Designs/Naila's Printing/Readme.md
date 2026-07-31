@@ -52,6 +52,8 @@ This landing page is designed to highlight the company's printing services, prod
 * Figma
 * Adobe Photoshop
 
+## Figma Proto link: https://www.figma.com/proto/pyUpVxAvi1U8DSFcE30jSP/Naila-s-Printing?node-id=1-3&p=f&t=hmFsE3MlLkKg0sOa-0&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+
 ## Design Goal
 
 The objective of this project was to create a professional printing service website that builds trust, showcases product quality, and provides visitors with a seamless browsing experience while making it easy to explore services and place custom printing orders.
