@@ -1,4 +1,4 @@
-<img width="1920" height="7516" alt="Pulse Check" src="https://github.com/user-attachments/assets/7a14fc38-3929-4201-b7ce-5bee35ef1b95" />## Pulse Check – Family Connection & Support Platform (Figma UI/UX)
+## Pulse Check – Family Connection & Support Platform (Figma UI/UX)
 
 **Pulse Check** is a modern community-focused website concept designed in **Figma** to help families and friends maintain meaningful connections with incarcerated loved ones. The design focuses on reducing the challenges and inconvenience associated with staying connected while creating a supportive digital experience centered around communication, emotional well-being, and successful reintegration.
 
