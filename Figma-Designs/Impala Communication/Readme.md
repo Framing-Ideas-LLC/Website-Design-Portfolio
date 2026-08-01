@@ -30,7 +30,9 @@ The design uses a clean corporate layout with strong typography, bold orange and
 
 Professional, corporate, and modern visual direction with a strong focus on communication and storytelling. The layout combines large photographs, content cards, contrasting sections, and clear calls-to-action while maintaining consistent branding throughout the website.
 
-Figma Proto link: https://www.figma.com/proto/rLX5sDYrS2dwl2zt816Ovu/Impala-Communication?node-id=0-16&t=FapOA9rGzgX2gCeF-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
+### Figma Proto link: 
+
+https://www.figma.com/proto/rLX5sDYrS2dwl2zt816Ovu/Impala-Communication?node-id=0-16&t=FapOA9rGzgX2gCeF-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ### Project Goal
 
