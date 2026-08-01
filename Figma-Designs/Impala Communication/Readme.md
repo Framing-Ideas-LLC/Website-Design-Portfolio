@@ -1,5 +1,3 @@
-Bilkul. Screenshot ko dekh kar agar aapko **GitHub repository ke liye simple project description / README-style overview** chahiye, to ye format clean rahega:
-
 ### Impala Communication Website
 
 Impala Communication is a modern corporate website designed for a strategic communication and branding company. The website presents the company’s expertise, services, achievements, case studies, and industry experience in a professional and engaging way.
