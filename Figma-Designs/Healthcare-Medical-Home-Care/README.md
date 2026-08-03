@@ -1,3 +1,3 @@
-### SaaS - Dashboard
+### Healthcare - Medical - Home Care
 
-A collection of modern SaaS platforms and dashboard interfaces designed for startups, software companies, and digital products. Each project focuses on delivering a clean, intuitive, and data-driven user experience through responsive layouts, streamlined workflows, and user-centered design. From analytics dashboards and CRM systems to project management and business applications, these interfaces help users work more efficiently while reinforcing a professional and scalable digital product experience.
+A collection of professional UI/UX designs created for healthcare providers, medical practices, home care agencies, behavioral health services, and wellness organizations. Each project focuses on trust, accessibility, and clear communication through clean layouts, intuitive navigation, and responsive design. From presenting treatments and care services to supporting appointments, patient inquiries, and lead generation, these designs help healthcare businesses build credibility and connect effectively with patients and families.
