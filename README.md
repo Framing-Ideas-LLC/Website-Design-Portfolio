@@ -57,9 +57,9 @@ At Framing Ideas, we believe every website should not only look exceptional but 
 🎨 Behance: https://www.behance.net/framingideas20
 💼 LinkedIn: https://www.linkedin.com/company/framingideas 
 💼 LinkTree: https://linktr.ee/framingideas20 
-📧 Email: [framingideas20@gmail.com](mailto:framingideas20@gmail.com)
+📧 Email: [info@framingideas.com](mailto:info@framingideas.com)
 
 ---
 
-**Framing Ideas – Turning Creative Concepts into Digital Experiences.**
+**Framing Your Thoughts Into Reality!**
 
