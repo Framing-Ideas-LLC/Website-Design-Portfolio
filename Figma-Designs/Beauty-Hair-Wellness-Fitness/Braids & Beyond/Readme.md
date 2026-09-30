@@ -4,8 +4,7 @@
 
 The website is crafted to highlight hair styling, braiding services, color transformations, beauty treatments, stylist expertise, and client experiences while delivering a seamless experience across all devices. Premium visuals, sophisticated layouts, intuitive navigation, and conversion-focused user flows create a welcoming journey that reflects the salon's commitment to beauty, confidence, and exceptional service.
 
-### Prototype Link:
-https://www.figma.com/proto/EyLWmmzN0YkdHmvhDtJRgP/Braids---Beyond---Website-UI-Design?node-id=39-5252&viewport=-55%2C-1906%2C0.62&t=sMk2cmz3aSLYMe7M-1&scaling=scale-down-width&content-scaling=fixed&page-id=2%3A3
+
 
 ### Project Highlights
 
