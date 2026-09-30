@@ -24,9 +24,6 @@ The design uses a soft and calming visual style that reflects relaxation, wellne
 
 The layout is structured to guide users naturally from learning about the services to understanding the therapist's experience and finally booking a session. Large lifestyle images help build trust and create a more personal connection with visitors.
 
-## Figma Proto Link
-
-https://www.figma.com/proto/L1nfCvwkiCWqe2sFxBTtgv/BAYOU-MASSAGE-THERAPY?node-id=2-3&t=9IjO9XN6VLiu6nd6-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Technologies
 
