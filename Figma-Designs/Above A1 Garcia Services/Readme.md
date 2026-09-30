@@ -21,9 +21,6 @@ A professional property maintenance and outdoor services website designed to sho
 
 The website uses a clean service-focused design with dark navy sections, light backgrounds, green accents, service cards, property imagery, and structured content sections to create a professional and trustworthy experience.
 
-## Figma Proto Link
-
-https://www.figma.com/proto/8a8S3s4Duqzz7z7LuDXNO6/Above-A1-Garcia-Services?node-id=7-247&t=1PE6Z0GHCGgnm34y-1
 
 ## Purpose
 
