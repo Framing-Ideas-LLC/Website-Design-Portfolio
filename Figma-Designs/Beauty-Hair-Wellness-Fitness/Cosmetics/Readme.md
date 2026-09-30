@@ -26,10 +26,6 @@ A modern and elegant cosmetics e-commerce website designed to showcase organic, 
 * Product-focused e-commerce presentation
 * Responsive-friendly structure
 
-## Figma Proto Link
-
-https://www.figma.com/proto/wK5wx98je5lBxiSlpJWJAN/Cosmetics?node-id=1-2&t=B4rnhCHmaO1iXczu-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
-
 ### Features
 
 * Product showcase
