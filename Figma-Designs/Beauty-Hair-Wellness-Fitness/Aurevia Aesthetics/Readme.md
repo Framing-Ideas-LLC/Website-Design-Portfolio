@@ -34,9 +34,6 @@ A modern and elegant aesthetic clinic website designed for Aurevia Aesthetics. T
 * Get In Touch
 * Footer
 
-## Figma Proto Link
-
-https://www.figma.com/proto/uuCOTS2hPz8UDV1HsWtU7W/Aurevia-Aesthetics?node-id=2-316&t=vWJaYeckehvJpVZj-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Purpose
 
