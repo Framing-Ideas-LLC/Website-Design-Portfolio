@@ -4,8 +4,6 @@
 
 The website is crafted to highlight lip gloss, body butter, skincare, beauty collections, featured products, and the brand's story while delivering a seamless shopping experience across all devices. Bold visuals, expressive layouts, intuitive navigation, and a strong product-focused design create an engaging journey from discovery to checkout.
 
-### Prototype Link:
-https://www.figma.com/proto/rWtSzVzmjklFzpggumiQMl/Classy-Jazzy---Website-UI-Design?node-id=93-3&viewport=-2804%2C59%2C0.41&t=n1gfyJF0DPZYy7vq-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Project Highlights
 
