@@ -14,9 +14,7 @@ A premium and elegant hair salon website designed to showcase professional hair 
 * Final booking CTA section
 * Footer with navigation, contact details, working hours, and social links
 
-## Figma Proto Link
 
-https://www.figma.com/proto/302T4luemu5y5BIGbWWqcd/Ana-Sol--Hair-Salon-?node-id=4-310&t=zx99Yx43Or7PR08L-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Design Style
 
