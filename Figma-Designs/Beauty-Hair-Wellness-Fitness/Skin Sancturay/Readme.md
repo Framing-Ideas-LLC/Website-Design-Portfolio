@@ -4,8 +4,6 @@
 
 The website is crafted to highlight handcrafted skincare products, natural ingredients, product benefits, skincare routines, and the brand's philosophy while delivering a seamless experience across all devices. Soft visuals, clean layouts, natural imagery, elegant typography, and calming interactions create a premium digital experience that communicates care, authenticity, and quality.
 
-### Prototype Link:
-https://www.figma.com/proto/GONx52BqWHHLaNbIIX2gcO/Skin-Sanctuary---Website-UI-Design?page-id=0%3A1&node-id=1-6&p=f&viewport=111%2C88%2C0.12&t=6bWllUnrXm1krOb8-1&scaling=scale-down-width&content-scaling=fixed
 
 ### Project Highlights
 
