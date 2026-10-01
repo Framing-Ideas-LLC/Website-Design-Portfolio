@@ -4,8 +4,7 @@
 
 The website is crafted to highlight loan underwriting, complex financial workouts, restructuring solutions, strategic advisory services, and the company's philosophy while delivering a seamless experience across all devices. Sophisticated layouts, confident typography, refined financial visuals, and strong information hierarchy create a professional digital experience built around trust, expertise, and long-term results.
 
-### Prototype Link:
-https://www.figma.com/proto/j7pRs2rlLMJ4hsVU0upUic/Phoenix-Ascend-Financial---Website-UI-Design?page-id=0%3A1&node-id=3-3&p=f&viewport=392%2C45%2C0.12&t=sxOVyqcB7NarsyjS-1&scaling=scale-down-width&content-scaling=fixed
+
 
 ### Project Highlights
 
