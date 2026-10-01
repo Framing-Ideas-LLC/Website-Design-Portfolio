@@ -25,9 +25,7 @@ The design showcases premium gym apparel through a visually engaging shopping ex
 
 The overall design uses a dark, bold, and energetic visual direction combined with clean white sections and red accent colors. Large typography, fitness imagery, and strong contrast create a premium athletic brand experience focused on performance and everyday gym culture.
 
-## Figma Proto Link
 
-https://www.figma.com/proto/PC4nSPtZcPRTi3MXXwDvhz/Gym-Lab?node-id=1-388&t=SzCcVqtKXyZptGOI-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Sections Included
 
