@@ -37,9 +37,7 @@ A modern and responsive healthcare and care support website designed to present 
 
 The website uses a clean, professional healthcare aesthetic with soft backgrounds, strong typography, photography, and a clear visual hierarchy. The layout focuses on trust, accessibility, readability, and conversion.
 
-## Figma Proto Link
 
-https://www.figma.com/proto/gCza5SX9DoQ1L77J5ydpUq/PUR-PUS-SUPPORTED-LIVING?node-id=0-1&t=Qk0EtPa7lE8tuKJv-1
 
 ## Purpose
 
