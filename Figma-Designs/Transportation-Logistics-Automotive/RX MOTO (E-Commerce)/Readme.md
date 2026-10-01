@@ -27,9 +27,7 @@ The website uses a bold and performance-focused visual direction. Large uppercas
 * Light Gray
 * Orange Accent
 
-## Figma Proto Link
 
-https://www.figma.com/proto/paIeNPlG3EhtCg69xebJUN/R-X-MOTO--E-Commerce-?node-id=1-2&t=ugDdE6Bo4iPvLnBp-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## User Experience
 
