@@ -30,9 +30,7 @@ The website highlights:
 * Welded Pipe
 * Custom Fencing Solutions
 
-## Figma Proto Link
 
-https://www.figma.com/proto/Hgqb1XDf3xHYDxbsp3vli7/C-C-Construction?node-id=39-472&t=6fGHqjZeLRiazguz-1
 
 ## Design
 
