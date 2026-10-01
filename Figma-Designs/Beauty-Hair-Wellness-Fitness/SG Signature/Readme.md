@@ -32,9 +32,6 @@ The website presents the studio's services, treatments, results, and brand exper
 * Responsive and user-friendly structure
 * Strong call-to-action placement
 
-## Figma Proto Link
-
-https://www.figma.com/proto/Ovcr9oJa1XoOsE4LRPiWU2/SG-Signature?node-id=5-15&t=PBSWcTAMGJHIfvOk-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Purpose
 
