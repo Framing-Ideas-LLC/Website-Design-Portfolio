@@ -4,8 +4,6 @@
 
 The website is crafted to clearly communicate NABS's mission, coaching services, community initiatives, youth programs, events, and opportunities for involvement. Warm photography, welcoming typography, thoughtful layouts, and community-focused storytelling create an approachable digital experience built around connection, family, service, and positive growth.
 
-### Prototype Link:
-https://www.figma.com/proto/jwaNMIro2nMnmjq7dJxu2d/North-American-Benevolence---Website-UI-Design?node-id=9-2&viewport=693%2C-2300%2C0.19&t=qfaJt5Y3gDqNvFLP-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Project Highlights
 
