@@ -4,8 +4,6 @@
 
 The website is crafted to highlight the latest collections, featured products, seasonal styles, and fashion essentials while delivering a seamless shopping experience across all devices. Elegant visuals, refined typography, immersive product imagery, and intuitive navigation create an engaging journey that allows customers to explore collections and define their personal style.
 
-### Prototype Link:
-https://www.figma.com/proto/9F1EW3JsjDm4teN1df30Le/DBF-Fashion---Website-UI-Design?node-id=1-7&viewport=480%2C132%2C0.1&t=33R75U5VwURJb945-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Project Highlights
 
