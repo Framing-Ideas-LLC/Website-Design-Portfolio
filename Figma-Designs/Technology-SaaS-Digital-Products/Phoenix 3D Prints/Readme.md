@@ -4,8 +4,7 @@
 
 The website is crafted to highlight 3D-printed products, featured collections, functional designs, custom creations, and the story behind the brand while delivering a seamless shopping experience across all devices. Bold product visuals, clean layouts, modern typography, and intuitive navigation create an engaging journey for customers discovering unique and functional 3D-printed creations.
 
-### Prototype Link:
-https://www.figma.com/proto/sB2b3pyTR650fo6Zj2DZis/Phoenix-3D-Prints---Website-UI-Design?node-id=1-19&viewport=250%2C-60%2C0.28&t=51HglIGY4BGIELDy-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+
 
 ### Project Highlights
 
