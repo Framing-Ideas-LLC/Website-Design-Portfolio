@@ -4,8 +4,7 @@
 
 The website is crafted to highlight the foundation's mission, youth programs, community initiatives, educational support, outreach efforts, donation opportunities, and impact while delivering a seamless experience across all devices. Warm visuals, inspiring storytelling, accessible layouts, and intuitive navigation create an engaging journey for families, donors, volunteers, and community supporters.
 
-### Prototype Link:
-https://www.figma.com/proto/hF6CydUnnCq7EvJzZeTN6V/James---Valerie-Leonard-Foundation---Website-UI-Design?node-id=12-155&p=f&viewport=67%2C57%2C0.05&t=cPPrEUKJHh1xTBxh-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+
 
 ### Project Highlights
 
