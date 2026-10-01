@@ -4,8 +4,6 @@
 
 The website is crafted to highlight Uganda safari packages, gorilla trekking, wildlife experiences, national parks, cultural adventures, boat cruises, tailor-made holidays, and travel planning services while delivering a seamless experience across all devices. Immersive photography, earthy visual elements, elegant typography, and intuitive navigation create an engaging journey that inspires travelers to discover Uganda's natural beauty.
 
-### Prototype Link:
-https://www.figma.com/proto/zM4ObE2Ld2CMMILVdGFxuz/Ameera-Africa-Safaris---Website-UI-Design?node-id=4-3&p=f&viewport=-88%2C-412%2C0.62&t=E4SfiLsPIKy3a3W0-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Project Highlights
 
