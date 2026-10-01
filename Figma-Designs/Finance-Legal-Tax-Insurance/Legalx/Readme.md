@@ -4,8 +4,6 @@
 
 The website is crafted to highlight startup legal services, business formation, commercial contracts, acquisitions, exit planning, and ongoing legal support while delivering a seamless experience across all devices. Professional layouts, clear messaging, modern typography, and intuitive navigation create an approachable digital experience that makes complex legal services easier for entrepreneurs to understand and access.
 
-### Prototype Link:
-https://www.figma.com/proto/sfAxT13P1m9lHnWfE509lo/Legalx---Website-UI-Design?node-id=1-1917&viewport=81%2C-139%2C0.3&t=wKFJOiZttQiwTDqI-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Project Highlights
 
