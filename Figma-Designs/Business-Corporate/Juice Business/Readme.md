@@ -31,9 +31,6 @@ The website uses a bright, energetic visual style with yellow, orange, cream, gr
 * Clean and readable supporting text
 * Strong visual separation between sections
 
-## Figma Proto Link
-
-https://www.figma.com/proto/WcbAX6wwM4V2EXWlSEu5HP/Juice-Business?node-id=6-115&t=n18Mjde0UWcWSoYF-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## User Experience
 
