@@ -32,9 +32,7 @@ The website presents the company as an experienced aviation maintenance and GSE 
 * Minimal and corporate visual approach
 * Responsive layout designed for desktop and mobile users
 
-## Figma Proto Link
 
-https://www.figma.com/proto/zs8auGbT7QhTl80NanOH4P/In-and-out-gse-mechanical-solutions?node-id=1-6&t=XGw8dPcbDtmx7qi8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Main Features
 
