@@ -19,9 +19,6 @@ A modern and elegant café website designed for Lyrical Chef Cafe, combining a d
 
 The website uses a premium dark layout with gold typography and accents. Large serif headings, clean spacing, high-quality food photography, and structured content sections create an elegant and welcoming café experience.
 
-## Figma Proto Link
-
-https://www.figma.com/proto/iYfhszFsOW9grbHNXcEnzN/lyrical-chef-caefe?node-id=1-2&t=Chjpstg6D0gmn8o2-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Sections
 
