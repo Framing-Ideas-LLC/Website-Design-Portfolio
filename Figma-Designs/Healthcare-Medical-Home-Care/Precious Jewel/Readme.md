@@ -4,8 +4,7 @@
 
 The website is crafted to highlight in-home care services, personal assistance, caregiver support, care options, and family resources while delivering a seamless experience across all devices. Warm visuals, calming layouts, intuitive navigation, and human-centered storytelling create a welcoming journey for individuals and families looking for reliable support and compassionate care.
 
-### Prototype Link:
-https://www.figma.com/proto/V0I8BP3fkqUcSpMvKQmAEO/Precious-Jewel-in-Home-Care---Website-UI-Design?node-id=19-465&p=f&viewport=199%2C293%2C0.12&t=TbrXYEJNynZEnIcJ-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+
 
 ### Project Highlights
 
