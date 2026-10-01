@@ -4,8 +4,6 @@
 
 The website is crafted to highlight the kennel's history, available puppies, bloodlines, breeding philosophy, puppy care, family testimonials, and application process while delivering a seamless experience across all devices. Strong editorial photography, bold typography, rich visual layouts, and a confident brand identity create a memorable digital experience that reflects the character of Red Block Kennel.
 
-### Prototype Link:
-https://www.figma.com/proto/UZk8cZHMsX6pgWJbQKHxqN/Red-Block-Kennel---Website-UI-Design?node-id=2-4&p=f&viewport=258%2C185%2C0.1&t=BCFXyDZBsocsd4Tc-1&scaling=scale-down-width&content-scaling=fixed&page-id=1%3A6
 
 ### Project Highlights
 
