@@ -4,8 +4,7 @@
 
 The website is crafted to showcase training programs, community outreach initiatives, upcoming classes, volunteer opportunities, and educational resources while delivering a seamless experience across all devices. Clean layouts, trust-building visuals, and intuitive navigation create an engaging journey that encourages participation and supports the organization's mission of making life-saving training available to everyone.
 
-### Prototype Link:
-https://www.figma.com/proto/EFEqyJPIGCkRhixUzh0TPW/Cater-2-U-CPR--AED---First-Aid-training--2-?node-id=2-5&p=f&viewport=473%2C62%2C0.05&t=1q9GvJZbe9ekU6ZB-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+
 
 ### Project Highlights
 
