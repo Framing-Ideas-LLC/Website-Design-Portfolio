@@ -20,9 +20,6 @@ Kash Kollectionz is a premium e-commerce website designed for a luxury human hai
 
 The website uses a sophisticated black, white, and soft beige color palette to create a premium beauty-brand aesthetic. Elegant serif typography is paired with clean supporting text, while high-quality lifestyle photography keeps the focus on the products. Spacious layouts, bold imagery, and minimal UI elements make the shopping experience feel polished and luxurious.
 
-## Figma Proto Link 
-
-https://www.figma.com/proto/4B89LV2p7k1pwe1Qntndq5/Kash-Kollecyionz?node-id=1-2&t=B5wAwhTY8RHhEZuP-0&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ## Project Goal
 
