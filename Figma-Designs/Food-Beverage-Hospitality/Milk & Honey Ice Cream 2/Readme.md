@@ -38,9 +38,6 @@ The design follows a dark and premium visual direction with warm food-inspired a
 * Strong visual hierarchy
 * Modern typography and rounded UI elements
 
-## Figma Proto Link
-
-https://www.figma.com/proto/NS8JaMa5wss8G5Z6UaD6po/Milk---Honey-Ice-Cream?node-id=18-2&t=JJMHEIA4E43h0wvx-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ### Technologies
 
