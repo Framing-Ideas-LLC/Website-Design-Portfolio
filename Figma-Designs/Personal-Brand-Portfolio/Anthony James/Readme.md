@@ -4,8 +4,6 @@
 
 The website is crafted to highlight A.J.'s books, coaching services, educational resources, mentorship programs, professional background, insights, and personal philosophy while delivering a seamless experience across all devices. Refined visuals, engaging storytelling, clear content hierarchy, and intuitive navigation create an inspiring journey for individuals seeking guidance, personal growth, and professional development.
 
-### Prototype Link:
-https://www.figma.com/proto/31MOZKG1q071H4skkR7Nn6/Anthony-James---Website-UI-Design?node-id=5-6&viewport=268%2C56%2C0.12&t=Hy8ES1oQPtSqsWut-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Project Highlights
 
