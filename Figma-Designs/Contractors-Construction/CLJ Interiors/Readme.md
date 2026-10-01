@@ -4,8 +4,6 @@
 
 This website concept was designed to showcase CLJ Construction's craftsmanship through a bold, modern, and image-driven experience. High-quality project photography, clean layouts, strong typography, structured service sections, and prominent calls to action create a professional digital presence that helps homeowners explore renovation services and envision their own transformation.
 
-### Prototype Link:
-https://www.figma.com/proto/8JoHiXYVFrtxDljAB7lNBV/CLJ-Interiors--Website-UI-Design?node-id=6-6&p=f&viewport=-284%2C-151%2C0.17&t=5XsY4mdriQtX4raa-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Project Highlights
 
