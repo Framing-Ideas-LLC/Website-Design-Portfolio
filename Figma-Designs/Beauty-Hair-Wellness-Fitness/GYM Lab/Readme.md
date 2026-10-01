@@ -4,8 +4,6 @@
 
 The website is crafted to highlight gym apparel, training essentials, featured collections, new releases, and best-selling products while delivering a seamless shopping experience across all devices. Strong visuals, bold typography, athletic imagery, and streamlined navigation create an engaging journey from product discovery to checkout.
 
-### Prototype Link:
-https://www.figma.com/proto/xadtfaCTuBWqaSRo1qyxi5/Gym-Lab---Shopify-Website-UI-Design?node-id=3-4&viewport=-11%2C-100%2C0.57&t=Qwxo2OHPV0aIBw6X-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Project Highlights
 
