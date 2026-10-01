@@ -4,8 +4,7 @@
 
 The website is crafted to simplify complex Medicare information through clear service explanations, plan comparison tools, educational resources, FAQs, and consultation pathways. Friendly visual design, accessible typography, structured layouts, and reassuring messaging create a trustworthy digital experience that makes Medicare information easier to understand and navigate.
 
-### Prototype Link:
-https://www.figma.com/proto/oeEKDmi9o4YDunGAtzkn3l/Medicare-Monkey---Website-UI-Design?node-id=3-2&p=f&viewport=270%2C88%2C0.19&t=s7jRnprZZRCkwiZe-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+
 
 ### Project Highlights
 
