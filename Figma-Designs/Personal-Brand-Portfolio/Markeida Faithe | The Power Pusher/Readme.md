@@ -23,9 +23,7 @@ The visual design combines a soft neutral background with dark imagery and bold 
 * Responsive layout for desktop and mobile devices
 * Clean navigation and clear call-to-action buttons
 
-## Figma Proto Link
 
-https://www.figma.com/proto/pMxd8oOjUM7IL1X9bSSK9t/Markeida-Faithe-%7C-The-Power-Pusher?node-id=6-11&t=dlfG4z7oyMfoQ7xH-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Design Style
 
