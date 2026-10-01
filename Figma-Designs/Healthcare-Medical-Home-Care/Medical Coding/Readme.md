@@ -23,9 +23,7 @@ The website is designed to present medical coding, consulting, training, and hea
 
 The design follows a clean, professional, and healthcare-focused visual direction. Large medical imagery, structured content blocks, subtle borders, card layouts, and red accent elements create a modern corporate appearance while maintaining clarity and readability.
 
-### Figma Proto Link
 
-https://www.figma.com/proto/rZki2WFVuU2zmziWiYnHVR/Medical-Coding?node-id=91-16&t=JQSgR80VzP4A9qpC-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ### Technologies
 
