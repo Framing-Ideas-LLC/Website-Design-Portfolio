@@ -36,9 +36,7 @@ Circle Of Care provides personalized companion care and daily living support for
 * Senior-care focused photography
 * Clean, spacious, and trustworthy layout
 
-## Figma Proto Link
 
-https://www.figma.com/proto/5hPPL8vEjkOWHzTbiDQfY4/Circle-Of-Care?node-id=4001-2&t=eNVCFFEtKS1t5RdC-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Goal
 
