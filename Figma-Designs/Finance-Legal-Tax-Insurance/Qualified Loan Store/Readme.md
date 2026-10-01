@@ -4,8 +4,6 @@
 
 The website is crafted to showcase auto loans, home loans, business financing, lending partners, and loan application services while delivering a seamless experience across all devices. Clean layouts, clear information architecture, intuitive navigation, and conversion-focused user flows create an engaging journey that helps users explore financing options and make informed decisions.
 
-### Prototype Link:
-https://www.figma.com/proto/US0DMxG96rpW3K09OD3Yyu/Qualified-Loan-Store---Website-UI-Design?node-id=131-747&p=f&viewport=-18%2C-336%2C0.26&t=n4YGm4kRoSdXK7fH-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Project Highlights
 
