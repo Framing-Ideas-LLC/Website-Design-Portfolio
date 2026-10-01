@@ -26,9 +26,6 @@ SongBird 360 is a modern event photo booth website designed to promote photo boo
 * Clear spacing and section separation for a smooth browsing experience
 * Responsive structure designed for desktop and mobile layouts
 
-## Figma Proto Link
-
-https://www.figma.com/proto/WwWmDzdUsxa4nSc8ES46wj/SongBird360?node-id=1-2&t=3D93BWkLx0WppknT-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Main Sections
 
