@@ -4,8 +4,6 @@
 
 The website is crafted to highlight fresh juice collections, Wild-Crafted Sea Moss Gel, herbal teas, meal prep services, wellness products, and educational resources while delivering a seamless experience across all devices. Fresh imagery, vibrant layouts, clean typography, and intuitive navigation create an engaging journey for customers exploring natural products and wellness-focused solutions.
 
-### Prototype Link:
-https://www.figma.com/proto/pK3VLmlfEIKZDaDK6BXaBy/Juicing-with-Juice---Website-UI-Design?node-id=2-2&viewport=228%2C221%2C0.11&t=8yZzGKF6VkZOIKGj-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Project Highlights
 
