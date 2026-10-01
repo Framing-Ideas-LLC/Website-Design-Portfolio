@@ -20,9 +20,6 @@ Smoothie Aid is a clean and modern website design for a healthy beverage and nut
 
 The design uses a fresh and natural visual style with soft backgrounds, organic shapes, product photography, and bold typography. The color palette combines deep navy blue with light neutral tones and bright yellow/orange accents to create a healthy and energetic feel.
 
-## Figma Proto Link
-
-https://www.figma.com/proto/6F6FiDJ0D3SbVX3PR8gJ3J/Smoothie-Aid?node-id=2-207&t=tKKIxkItYQ3YOPyw-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Main Sections
 
