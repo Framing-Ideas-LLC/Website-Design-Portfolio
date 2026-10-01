@@ -24,6 +24,4 @@ The design uses a dark, earthy background combined with warm beige and cream ton
 
 The overall layout balances product-focused sections with storytelling content to create a more engaging shopping experience.
 
-## Figma Proto Link
 
-https://www.figma.com/proto/5eNay0waBC35RaqiX7twgf/Purrfect-Knotworks?node-id=260-2&t=PASuKemXEUChGu4m-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
