@@ -4,9 +4,6 @@
 
 The website is crafted to highlight structured business programs, mentorship opportunities, educational resources, funding support, entrepreneurial development, and community initiatives while delivering a seamless experience across all devices. Bold visuals, empowering messaging, modern layouts, and intuitive navigation create an engaging digital experience that inspires entrepreneurs to take action.
 
-### Prototype Link:
-https://www.figma.com/proto/fXOP2kVlCHMCmt71zgkuBv/Business-Showers---Website-UI-Design?page-id=0%3A1&node-id=3-7&viewport=350%2C45%2C0.22&t=V4cTr09p1NL9CyUh-1&scaling=min-zoom&content-scaling=fixed
-
 ### Project Highlights
 
 * Modern Entrepreneurship & Business Empowerment UI/UX Design
