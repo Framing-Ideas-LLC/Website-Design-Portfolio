@@ -20,9 +20,7 @@ A modern and elegant beauty salon website designed for Pink Palace Beauty. The w
 
 The design uses a soft pink and neutral color palette with elegant typography, rounded cards, high-quality beauty imagery, and subtle visual elements to create a premium salon experience.
 
-## Figma Proto Link
 
-https://www.figma.com/proto/pdOy4PppE1ZMNbQstH5OYW/Pink-Palace?node-id=4-770&t=Wd3jvDsgxXXKCvhM-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Purpose
 
