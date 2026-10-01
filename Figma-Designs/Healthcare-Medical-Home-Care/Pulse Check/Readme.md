@@ -4,8 +4,7 @@
 
 The website is crafted to showcase connection services, communication resources, family support programs, reintegration initiatives, and helpful resources while delivering a seamless experience across all devices. A warm visual identity, clear layouts, intuitive navigation, and human-centered storytelling create an accessible journey for families seeking reliable ways to stay connected and provide ongoing support.
 
-### Prototype Link:
-https://www.figma.com/proto/15Bx1pmiqxzRrhxejvCOaV/Pulse-Check---Website-UI-Design?node-id=2-9&p=f&viewport=187%2C229%2C0.04&t=mHk3ZLrbWpi2m9u1-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+
 
 ### Project Highlights
 
