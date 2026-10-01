@@ -19,9 +19,6 @@ The design uses a minimal layout with a soft neutral background and dark blue-gr
 * Newsletter subscription section
 * Fully responsive layout for different screen sizes
 
-## Figma Proto Link
-
-https://www.figma.com/proto/fJQme7T1uUSlBjmnR1Jc6K/SASHN?node-id=1-2&t=MW4Wv9VPQmHW8wko-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Design Focus
 
