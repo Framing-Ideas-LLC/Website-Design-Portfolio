@@ -24,9 +24,7 @@ A modern barbershop and beauty salon website designed for Final Touch Barbers & 
 * Professional barbershop and salon aesthetic
 * Responsive design for desktop and mobile devices
 
-## Figma Proto Link
 
-https://www.figma.com/proto/mAauCKYnE2PFiR9j07Mi5K/Final-Touch-Barbers---Beauty?node-id=1-2&t=9urscq31w5GpEtAE-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Purpose
 
