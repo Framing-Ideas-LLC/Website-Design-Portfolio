@@ -23,9 +23,7 @@ EbonyOpoly is a modern e-commerce website designed for a board game brand that c
 
 The design uses a warm, culture-focused visual style with neutral backgrounds, earthy brown accents, bold typography, and strong product photography. Custom section shapes and carefully structured content help give the website a distinctive brand identity while keeping the shopping experience simple and easy to navigate.
 
-### Figma Protp link
 
-https://www.figma.com/proto/mTGEw0ip5bk3qwBLRiznuC/Ebony-Opoly?node-id=1-2&t=QfBmwf1H5eWwZ4IO-0&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Project Goal
 
