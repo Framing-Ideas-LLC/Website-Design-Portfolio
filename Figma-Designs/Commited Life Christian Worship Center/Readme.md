@@ -51,9 +51,6 @@ Content, images, cards, navigation, and typography should scale and stack approp
 * Responsive image-based sections
 * Clean and accessible content structure
 
-## Figma Proto Link
-
-https://www.figma.com/proto/BwUNdvRGVRymzffProObbL/Committed-Life-Christian-Worship-Center?node-id=3-2&t=zxVuuzfKtE8rF7Ri-1
 
 ## Goal
 
