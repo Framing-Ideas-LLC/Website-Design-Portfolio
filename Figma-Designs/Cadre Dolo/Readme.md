@@ -35,9 +35,6 @@ The website presents Cadre Dolo's music, story, releases, merchandise, and creat
 
 The design uses a dark cinematic aesthetic with bold typography, high-contrast imagery, gold highlights, and spacious layouts to create a premium music-industry feel.
 
-## Figma Proto Link
-
-https://www.figma.com/proto/A49P4XARqISy8Mua0SLn8F/Cadre-Dolo?node-id=2-435&t=xBiDGyGJUSm2H7BS-1
 
 ## Purpose
 
