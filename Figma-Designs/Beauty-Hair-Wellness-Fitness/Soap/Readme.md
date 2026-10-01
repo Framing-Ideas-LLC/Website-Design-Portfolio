@@ -29,9 +29,6 @@ A modern and responsive website designed for a cleaning products and detergent b
 
 The website uses a soft blue background combined with cream-colored content cards and rounded elements. Product photography is used throughout the layout to create a product-focused and approachable experience.
 
-## Figma Proto Link
-
-https://www.figma.com/proto/K7bLoT3eJe0Dd56TtmxMAc/Soap?node-id=223-2&t=ImmwT5oByySHp7wv-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Purpose
 
