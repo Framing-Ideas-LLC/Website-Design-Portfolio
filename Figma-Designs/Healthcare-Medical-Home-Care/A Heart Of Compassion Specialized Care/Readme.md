@@ -4,8 +4,7 @@
 
 The website is crafted to showcase specialized home care services, caregiver expertise, client support resources, testimonials, and care programs while delivering a seamless experience across all devices. Clean layouts, calming visuals, intuitive navigation, and meaningful storytelling create an engaging journey that helps families find the care and support their loved ones deserve.
 
-### Prototype Link:
-https://www.figma.com/proto/wnDRfRLSxJPJKHp3hUVf7H/A-Heart-Of-Compassion-Specialized-Care--AHOCSC-?node-id=9-3&viewport=195%2C-465%2C0.36&t=OklsUBHHy6z8Tg0o-1&scaling=scale-down-width&content-scaling=fixed&page-id=4%3A12
+
 
 ### Project Highlights
 
