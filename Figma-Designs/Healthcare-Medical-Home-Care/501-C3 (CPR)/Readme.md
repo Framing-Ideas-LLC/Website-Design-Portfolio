@@ -4,8 +4,7 @@
 
 The website is crafted to showcase training programs, certification courses, class schedules, educational resources, and community initiatives while delivering a seamless experience across all devices. Clean layouts, professional visuals, intuitive navigation, and engaging interactions create an informative journey for individuals, families, businesses, schools, and community organizations.
 
-### Prototype Link:
-https://www.figma.com/proto/ycOhcCBUqAnk3nBmGOXKH6/501-C3--CPR-?node-id=2-2&viewport=380%2C265%2C0.04&t=PDr71sy83cR7rvcy-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+
 
 ### Project Highlights
 
