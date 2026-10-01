@@ -4,8 +4,6 @@
 
 The website is crafted to highlight the game, gameplay experience, educational benefits, cultural inspiration, product details, player resources, and purchasing options while delivering a seamless experience across all devices. Bold visuals, vibrant layouts, engaging typography, and intuitive navigation create an exciting journey that reflects the game's focus on strategy, empowerment, and legacy.
 
-### Prototype Link:
-https://www.figma.com/proto/F9r2D4yGRzEizoUPfi71sk/Ebony-Opoly---Website-UI-Design?node-id=14-2&p=f&viewport=229%2C119%2C0.12&t=h5LkjDoaO0N6COIC-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Project Highlights
 
