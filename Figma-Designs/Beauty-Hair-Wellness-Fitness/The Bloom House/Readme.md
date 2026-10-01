@@ -4,8 +4,6 @@
 
 The website is crafted to highlight supportive living services, personalized resources, community programs, resident experiences, amenities, and support options while delivering a seamless experience across all devices. Warm visuals, inviting layouts, accessible typography, and thoughtful navigation create a reassuring journey for residents, families, caregivers, and community partners.
 
-### Prototype Link:
-https://www.figma.com/proto/9ltP6emFgkG9oxHn3CADBT/The-Bloom-House---Landing-Page?node-id=2-7&viewport=142%2C13%2C0.39&t=aAikhXMEsMTYNLqp-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Project Highlights
 
