@@ -21,9 +21,7 @@ A modern and professional security services landing page designed to build trust
 
 The design combines a bold and authoritative visual style with a clean and structured layout. Large uppercase typography, professional security imagery, spacious sections, rounded cards, and subtle geometric background elements create a strong and trustworthy user experience.
 
-## Figma Proto Link
 
-https://www.figma.com/proto/u2NLGk6HGrnvyLI8a83ys9/Responsive-Solutions-Security--Landing-Page-?node-id=1-2&t=SeZ0GKQJbIhuoCqM-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Built For
 
