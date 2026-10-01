@@ -23,9 +23,6 @@ The design uses a dark automotive-style hero section with strong typography, gol
 
 The website uses a professional automotive visual style with dark backgrounds, warm gold accents, bold condensed headings, clean content areas, and real automotive imagery. The layout is designed to maintain a strong balance between visual impact and practical information.
 
-## Figma Proto Link
-
-https://www.figma.com/proto/Yf8B7alOla2QtWMCDnspDY/Wash-and-Lube-Auto-Repair?node-id=1-2&t=nmOgyx3zebyC0eMH-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Main Goal
 
