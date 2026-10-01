@@ -4,8 +4,7 @@
 
 The website is crafted to highlight mobile notary services, loan signing services, document notarization, scheduling, service areas, and professional credentials while delivering a seamless experience across all devices. Clean layouts, professional visuals, clear service information, and intuitive navigation create a polished digital experience for individuals, businesses, lenders, and real estate professionals.
 
-### Prototype Link:
-https://www.figma.com/proto/UcsFgyCQ9kPShTPEpwPuG1/Golden-Signature-LLC---Website-UI-Design?node-id=4-8&p=f&viewport=390%2C162%2C0.08&t=HcuNSPbaey6fMwhc-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+
 
 ### Project Highlights
 
