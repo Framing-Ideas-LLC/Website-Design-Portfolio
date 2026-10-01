@@ -54,9 +54,6 @@ The website uses a clean e-commerce layout with:
 
 The website is designed to help retailers and businesses easily discover products, understand wholesale benefits, explore bestsellers, and submit inquiries for bulk purchasing.
 
-## Figma Proto Link
-
-https://www.figma.com/proto/FlbHprxgyaIsFWK55B3Mot/Transcendent-supply-LLC?node-id=3-3&t=8kptkuno6dsC5TOg-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Tech Focus
 
