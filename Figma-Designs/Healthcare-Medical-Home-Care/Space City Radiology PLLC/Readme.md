@@ -4,8 +4,7 @@
 
 The website is crafted to highlight radiology services, diagnostic imaging, facility information, certifications, experienced staff, modern technology, patient resources, and appointment options while delivering a seamless experience across all devices. Clean layouts, professional medical visuals, accessible typography, and clear information hierarchy create a reassuring journey for patients exploring diagnostic care.
 
-### Prototype Link:
-https://www.figma.com/proto/eM2bdJ6JSJsvgLJNW93S2T/Space-City-Radiology-PLLC---Website-UI-Design?node-id=7-9&viewport=390%2C128%2C0.32&t=QLQNWzZBo6lp1Nf7-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+
 
 ### Project Highlights
 
