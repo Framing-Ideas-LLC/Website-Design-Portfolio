@@ -4,8 +4,7 @@
 
 The website is crafted to support personal stories, community discussions, awareness resources, and encouragement-focused content while delivering a seamless experience across all devices. Warm visuals, thoughtful layouts, intuitive navigation, and a compassionate design approach create an engaging experience for individuals seeking connection, empathy, and shared experiences.
 
-### Prototype Link:
-https://www.figma.com/proto/RxSvFBLJ1ixZnMe206ZZXu/Dear-Encourager?node-id=719-1168&viewport=185%2C-598%2C0.08&t=7cEggiqg5MP5SPzF-1&scaling=scale-down-width&content-scaling=fixed&page-id=5%3A14
+
 
 ### Project Highlights
 
