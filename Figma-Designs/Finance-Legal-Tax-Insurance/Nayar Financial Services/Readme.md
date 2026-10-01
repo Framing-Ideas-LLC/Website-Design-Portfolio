@@ -4,8 +4,6 @@
 
 The design combines a clean financial-services aesthetic with a modern and approachable user experience. Clear service sections, structured content, professional typography, and strategic calls to action help visitors quickly understand the available solutions and navigate toward the support they need.
 
-### Prototype Link:
-https://www.figma.com/proto/uR3xmSNkpGOJtlKsLmAdjf/Nayar-Financial-Services---Website-UI-Design?node-id=6-2&p=f&viewport=-270%2C-1046%2C0.78&t=FuW4xeDPxkB6upXM-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Project Highlights
 
