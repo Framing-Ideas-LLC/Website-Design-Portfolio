@@ -4,8 +4,7 @@
 
 The website is crafted to highlight behavioral health services, telehealth care, treatment areas, provider information, and appointment options while delivering a seamless experience across all devices. Calm visuals, accessible layouts, clear information hierarchy, and intuitive navigation create a supportive journey for individuals seeking care tailored to their unique needs.
 
-### Prototype Link:
-https://www.figma.com/proto/RhiQ19w5EUJAupBtpR0drW/C-D-Behavioral-Health---Website-UI-Design?node-id=1-3&viewport=615%2C-129%2C0.15&t=EAp3b6VcdJse2qRB-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+
 
 ### Project Highlights
 
