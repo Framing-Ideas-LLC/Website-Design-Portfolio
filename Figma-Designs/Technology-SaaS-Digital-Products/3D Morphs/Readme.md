@@ -4,8 +4,7 @@
 
 The website is crafted to showcase curated fashion collections, '90s-inspired pieces, featured products, new arrivals, and brand stories while delivering a seamless shopping experience across all devices. Bold visuals, expressive typography, immersive product presentation, and intuitive navigation create an engaging journey for fashion lovers looking to rediscover iconic styles and make them their own.
 
-### Prototype Link:
-https://www.figma.com/proto/0WgZ2ZuiDO71PzTtpMrF84/3D-Morphs---Website-UI-Design?node-id=127-417&p=f&viewport=280%2C-1279%2C0.08&t=ShsAMPxx5aNamwVJ-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+
 
 ### Project Highlights
 
