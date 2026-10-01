@@ -23,9 +23,6 @@ The website provides a clean and trustworthy digital experience for customers lo
 
 The website uses a professional navy, white, and dark color palette to create a trustworthy and established brand presence. Large serif headings are combined with clean supporting typography, while photography is used throughout the layout to reinforce the legal and document-service theme.
 
-## Figma Proto Link
-
-https://www.figma.com/proto/I60xBCp9Gdd6nWGSf4dy3X/Notary--Landing-Page---Inner-Pages-?node-id=2003-921&t=UmeagE8XaKwc3rV1-0&scaling=min-zoom&content-scaling=fixed&page-id=2003%3A912
 
 ## Focus
 
