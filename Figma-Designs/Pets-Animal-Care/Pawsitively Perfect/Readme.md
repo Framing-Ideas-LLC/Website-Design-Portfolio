@@ -4,8 +4,7 @@
 
 The website is crafted to highlight pet care services, personalized routines, in-home visits, owner information, service areas, and booking options while delivering a seamless experience across all devices. Friendly pet photography, soft visual elements, approachable typography, and intuitive navigation create a trustworthy digital experience that helps pet owners feel confident leaving their companions in caring hands.
 
-### Prototype Link:
-https://www.figma.com/proto/4TdCHZg5UCpBebfF5zOFq3/Pawsitively-Perfect---Website-UI-Design?page-id=0%3A1&node-id=142-24&p=f&viewport=4222%2C-11223%2C0.83&t=wDpvAsK07ki9RXSM-1&scaling=scale-down-width&content-scaling=fixed
+
 
 ### Project Highlights
 
