@@ -21,9 +21,7 @@ The design uses large travel imagery, clean typography, warm neutral colors, and
 * Final call-to-action section
 * Detailed footer with navigation and contact information
 
-## Figma Proto Link
 
-https://www.figma.com/proto/4kW8vBy2j5R2a9RBP726WS/Three-Bears-Tours?node-id=48-2&t=gmPu75W6DWePhJBJ-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Design Focus
 
