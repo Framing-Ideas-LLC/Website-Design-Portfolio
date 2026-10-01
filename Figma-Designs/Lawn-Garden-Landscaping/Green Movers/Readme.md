@@ -4,8 +4,7 @@
 
 The website is crafted to highlight moving services, logistics planning, residential relocations, commercial moves, specialized handling, and customer support while delivering a seamless experience across all devices. Clean layouts, professional photography, structured content, and clear calls to action create a trustworthy digital experience that balances operational expertise with a personal touch.
 
-### Prototype Link:
-https://www.figma.com/proto/OGg9uR4kwDxubzGy1C1YnN/Green-Movers---Website-UI-Design?page-id=0%3A1&node-id=3-3&viewport=311%2C90%2C0.07&t=6NpOlPK9W2ZZIqNn-1&scaling=scale-down-width&content-scaling=fixed
+
 
 ### Project Highlights
 
