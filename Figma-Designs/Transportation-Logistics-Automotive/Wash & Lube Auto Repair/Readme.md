@@ -4,8 +4,7 @@
 
 The website is crafted to highlight automotive repair and maintenance services, the shop's family-owned story, service philosophy, customer reviews, and appointment options while delivering a seamless experience across all devices. Strong automotive imagery, bold typography, structured layouts, and clear calls to action create a professional digital experience centered around trust and reliability.
 
-### Prototype Link:
-https://www.figma.com/proto/bQVCj7x8xR286mjg66Wa1A/Wash---Lube-Auto-Repair---Website-UI-Design?page-id=0%3A1&node-id=3-3&viewport=-753%2C209%2C0.1&t=bMSiEoLfP7m2TNY1-1&scaling=scale-down-width&content-scaling=fixed
+
 
 ### Project Highlights
 
