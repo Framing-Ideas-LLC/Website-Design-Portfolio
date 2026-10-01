@@ -23,9 +23,6 @@ The website features a clean and sophisticated layout with a neutral color palet
 
 The website uses a minimal and refined visual style with soft neutral backgrounds, elegant typography, warm accent colors, and high-quality product imagery. The layout is designed to create a premium marketplace experience while keeping navigation and product discovery simple.
 
-## Figma Proto Link
-
-https://www.figma.com/proto/WcvsLWr2u3XPXr1wAs9gic/Antique?node-id=4-3&t=abyWDkRedndVtJYc-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Features
 
