@@ -4,8 +4,6 @@
 
 The website is crafted to highlight featured collections, product categories, brand stories, customer experiences, and special promotions while delivering a seamless experience across all devices. Clean layouts, compelling visuals, intuitive navigation, and conversion-focused user flows create an enjoyable shopping journey from product discovery to checkout.
 
-### Prototype Link:
-https://www.figma.com/proto/LVu3rw6SaWLXyLipCyZPnj/Creations-With-A-Purpose-Website-UI-Design?node-id=69-1279&p=f&viewport=-270%2C169%2C0.06&t=LWTq3E8QVHtXcxyv-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Project Highlights
 
