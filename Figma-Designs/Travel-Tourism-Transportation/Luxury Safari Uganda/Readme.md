@@ -4,8 +4,7 @@
 
 The website is crafted to highlight game drives, national parks, wildlife encounters, safari packages, guided experiences, accommodations, and travel information while delivering a seamless experience across all devices. Immersive photography, elegant layouts, intuitive navigation, and destination-focused storytelling create an engaging journey for travelers planning their next African adventure.
 
-### Prototype Link:
-https://www.figma.com/proto/Xtlb7cr7DLyYgTh8ywqVL5/Luxury-Safari-Uganda---Homepage-Revamp?node-id=3-13&p=f&viewport=327%2C-216%2C0.13&t=oeUAbcey6hOJwyb6-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+
 
 ### Project Highlights
 
