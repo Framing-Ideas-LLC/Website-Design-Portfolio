@@ -4,8 +4,7 @@
 
 The website is crafted to highlight personalized treatment programs, evidence-based care, youth and family support, behavioral health services, and pathways to getting started. A calming visual direction, accessible typography, warm photography, clear content structure, and reassuring calls to action create a trustworthy experience for individuals and families seeking support.
 
-### Prototype Link:
-https://www.figma.com/proto/RdeVd51CBUoxBvl2ncPhpx/Reach-Behavioral-Health-Center---Website-UI-Design?node-id=2-110&viewport=176%2C53%2C0.16&t=njE6NmPNl9sWaEhb-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=2%3A110&page-id=0%3A1
+
 
 ### Project Highlights
 
