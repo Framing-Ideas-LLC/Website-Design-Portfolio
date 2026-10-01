@@ -32,9 +32,6 @@ A professional construction and property improvement website designed for BDC Im
 * Newsletter
 * Footer
 
-## Figma Proto Link
-
-https://www.figma.com/proto/k5FjcjYNhOuo0hdPk2dWp9/BDC-improvements-LTD--Landing-Page-?node-id=3-5505&t=wudEgScWWWwP3Dot-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Purpose
 
