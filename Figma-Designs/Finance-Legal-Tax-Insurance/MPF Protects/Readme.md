@@ -4,8 +4,6 @@
 
 The website is crafted to highlight financial education, protection solutions, resources, guidance, and consultation opportunities through a clear and approachable user experience. Clean layouts, trustworthy visual elements, confident typography, and intuitive navigation create a professional digital presence that prioritizes clarity and accessibility.
 
-### Prototype Link:
-https://www.figma.com/proto/SaccrsxdAOh5lnjxkw8mf4/MPF-Protects---Website-UI-Design?page-id=0%3A1&node-id=2-9&viewport=-1312%2C-230%2C0.65&t=9WkQ4xC7hemUU4OH-1&scaling=scale-down-width&content-scaling=fixed
 
 ### Project Highlights
 
