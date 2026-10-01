@@ -30,9 +30,7 @@ A modern motorcycle-inspired streetwear website designed for riders who want a b
 * Call to Action
 * Footer
 
-## Figma Proto Link
 
-https://www.figma.com/proto/GXmNJfRyiRgExTNmvjabgC/WESMOKE-BIKELIT?node-id=5-519&t=NUEXtHFKwWfMHET4-1
 
 ## Design Style
 
