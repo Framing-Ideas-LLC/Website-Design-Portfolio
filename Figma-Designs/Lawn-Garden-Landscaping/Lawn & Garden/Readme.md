@@ -44,9 +44,7 @@ Typography is modern and easy to read, with bold headings used to establish a cl
 
 The page is structured to guide visitors naturally from discovering the company to exploring services and reviewing previous work. Clear CTA buttons such as "Request for Quote", "Learn More", "View More", and "Contact Us" make important actions easy to find.
 
-## Figma Proto Link 
 
-https://www.figma.com/proto/BG8GxHM8b1aRvAWtIRkZVm/Lawn---Garden?node-id=1-2&t=b3wNbdJwgo2M3k7R-0&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ## Purpose
 
