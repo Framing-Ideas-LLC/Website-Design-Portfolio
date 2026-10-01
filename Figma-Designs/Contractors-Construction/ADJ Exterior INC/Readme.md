@@ -22,9 +22,6 @@ The website is focused on building trust and generating leads for residential an
 
 The design follows a modern construction and home improvement aesthetic. A white and light gray background is combined with bold red accents and dark sections to create strong contrast. Large construction images help communicate the company’s expertise, while clean spacing and structured layouts improve readability.
 
-## Figma Proto Link
-
-https://www.figma.com/proto/QeTtwVXliKVPgnlV7yWlc6/ADJ-Exterior-INC?node-id=12-15231&t=uD8NTJG7bLnHACMb-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Main Goal
 
