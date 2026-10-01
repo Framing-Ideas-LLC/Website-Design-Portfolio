@@ -30,9 +30,7 @@ A modern, bold, and responsive hauling service website designed for Parsley Haul
 
 The website uses a dark industrial visual style with high-contrast typography, red accent colors, large construction imagery, and strong visual hierarchy. The layout is designed to communicate reliability, professionalism, and heavy-duty hauling services.
 
-## Figma Proto Link
 
-https://www.figma.com/proto/spPvBZLmxWD1VmqsDvpL33/Parsley-Hauling?node-id=1-386&t=R2epi7NHSzbpsZ7l-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Purpose
 
