@@ -73,9 +73,7 @@ The footer includes navigation links, contact details, social media links, addit
 * Strong booking call-to-action sections
 * Fully responsive layout
 
-## Figma Proto Link
 
-https://www.figma.com/proto/iv949m87dIR73LxMUjkwTU/Fly-Venture?node-id=3-70&t=FoK0Ea744QvJRi7D-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Design Style
 
