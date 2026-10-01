@@ -18,9 +18,7 @@ The website provides a complete online shopping experience with curated product 
 * Community and newsletter subscription section
 * Multi-column footer with navigation and company information
 
-## Figma Proto Link
 
-https://www.figma.com/proto/ZxoVyfGUoVxXWnfiQTNjUF/GodlyHer?node-id=2159-15&t=6wOBSzDKxs9UDpXS-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Design Style
 
