@@ -16,9 +16,7 @@ The design focuses on creating a warm and premium experience while making it eas
 * Order-focused call-to-action sections
 * Clean navigation and footer layout
 
-## Figma Proto Link
 
-https://www.figma.com/proto/D4gL89Dt0SmRA8GZbSCViv/FresasByKay?node-id=1-2&t=uju5IwWuysgGJuop-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ### Design Style
 
