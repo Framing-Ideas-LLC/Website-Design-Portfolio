@@ -32,9 +32,7 @@ Cadre Dolo is a dark, bold, and modern music artist website designed around the 
 
 The design uses a black background, warm gold highlights, high-contrast typography, and large photography to create a bold and premium visual identity. The layout focuses on music, storytelling, and personal branding while keeping the overall interface clean and structured.
 
-## Figma Proto Link
 
-https://www.figma.com/proto/A49P4XARqISy8Mua0SLn8F/Cadre-Dolo?node-id=2-435&t=UDVjjxSU5EpjFTtU-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Purpose
 
