@@ -4,8 +4,7 @@
 
 The website is crafted to highlight childcare programs, age-specific learning, educational activities, safety standards, enrollment information, and family resources while delivering a seamless experience across all devices. Bright imagery, playful typography, welcoming layouts, and thoughtful visual elements create a reassuring digital experience for parents while reflecting the energy and curiosity of childhood.
 
-### Prototype Link:
-https://www.figma.com/proto/EHmO4TwjMzdArlREA8ZP81/ALCD-Kids---Website-UI-Design?node-id=8-393&viewport=327%2C45%2C0.07&t=kOH7sh1O6WY2b0lJ-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+
 
 ### Project Highlights
 
