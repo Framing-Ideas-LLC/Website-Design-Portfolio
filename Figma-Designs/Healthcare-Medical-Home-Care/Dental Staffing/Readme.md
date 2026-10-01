@@ -24,9 +24,6 @@ The website uses a clean healthcare-inspired design with a combination of light 
 The design follows a clean, modern, and healthcare-focused visual style. Soft neutral backgrounds are combined with teal and dark blue tones to create a professional identity. Large imagery related to dental professionals and modern clinics helps strengthen the brand message.
 
 
-## Figma Proto Link
-
-https://www.figma.com/proto/62uB04iOboW5o5BzCreTea/Dental-Staffing-Express?node-id=1-2&t=0sWDNEYH8JtLWT9E-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## User Experience
 
