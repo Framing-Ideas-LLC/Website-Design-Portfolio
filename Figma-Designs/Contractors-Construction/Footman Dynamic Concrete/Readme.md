@@ -4,8 +4,6 @@
 
 The website is crafted to highlight engineered foundations, custom patios, concrete repairs, tractor services, debris cleanup, hauling, and comprehensive site work while delivering a seamless experience across all devices. Bold construction imagery, strong typography, structured layouts, and clear calls to action create a professional digital experience that reflects the company's hands-on expertise and commitment to durable results.
 
-### Prototype Link:
-https://www.figma.com/proto/ARWLXmamCHIgMil4fPo7mZ/Footman-Dynamic-Concrete---Website-UI-Design?page-id=0%3A1&node-id=4-2&p=f&viewport=300%2C155%2C0.18&t=RbaDuskSh5CK8F7H-1&scaling=scale-down-width&content-scaling=fixed
 
 ### Project Highlights
 
