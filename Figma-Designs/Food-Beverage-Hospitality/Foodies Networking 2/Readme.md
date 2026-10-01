@@ -28,9 +28,6 @@ The design uses a modern and professional visual direction with:
 * Card-based layouts for organizing services
 * Horizontal promotional text banners between sections
 
-### Figma Proto Link
-
-https://www.figma.com/proto/4eGDJlLPTkpumfB1vUgtx8/Foodies-Networking?node-id=1-3&t=KIfQRTbIps5Jg63m-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ### User Experience
 
