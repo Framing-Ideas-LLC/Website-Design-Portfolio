@@ -29,9 +29,7 @@ The website uses a clean, earthy visual style that reflects the company's connec
 * Rounded image cards and subtle UI elements
 * Professional, trustworthy, and environmentally focused aesthetic
 
-## Figma Proto Link
 
-https://www.figma.com/proto/o0u8Ws1VhQ2gjpEiZf2Xvp/Ridgeland-Land-Management?node-id=114-290&t=G3I2dQITYiIbh3rP-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Main Sections
 
