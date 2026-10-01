@@ -22,9 +22,7 @@ AFA Fillies is a modern football website designed for a girls' soccer organizati
 
 The website uses a dark sports-inspired theme with teal and white as the primary colors. Large photography, angled image treatments, bold typography, geometric backgrounds, and high-contrast sections create an energetic football atmosphere.
 
-## Figma Proto Link
 
-https://www.figma.com/proto/po8hVlT9svNZDEzR4iXS7S/AFA-Fillies--Landing-Page-?node-id=0-3&t=k6mVnVatjLyNAFFh-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Main Sections
 
