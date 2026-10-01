@@ -4,8 +4,6 @@
 
 The website is crafted to highlight the menu, signature dishes, handcrafted desserts, coffee offerings, catering and event experiences, and the story behind the brand while delivering a seamless experience across all devices. Rich food photography, expressive typography, dynamic layouts, and a modern visual direction create an engaging digital experience that captures the personality and energy of Lyrical Chef.
 
-### Prototype Link:
-https://www.figma.com/proto/W9peitYga1Xf4086C5BoRU/Lyrical-Chef-Cafe---Website-UI-Design?page-id=0%3A1&node-id=4-2&p=f&viewport=681%2C651%2C0.24&t=QaOajYKoZ0u8jot4-1&scaling=scale-down-width&content-scaling=fixed
 
 ### Project Highlights
 
