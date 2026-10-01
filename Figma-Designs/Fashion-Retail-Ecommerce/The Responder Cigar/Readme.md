@@ -26,9 +26,6 @@ A premium cigar and lifestyle website designed for Responder Cigars, with a stro
 * Editorial-style layouts with overlapping images
 * Product-focused sections designed to create a luxury brand feel
 
-## Figma Proto Lik
-
-https://www.figma.com/proto/Phew6gcPNS0JVSatYTy1P7/The-Responder-Cigars?node-id=1-2&t=YzOVr1Ls7GM6pSvp-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Purpose
 
