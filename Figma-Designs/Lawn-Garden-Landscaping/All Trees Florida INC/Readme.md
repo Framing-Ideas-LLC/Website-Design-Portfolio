@@ -62,9 +62,7 @@ Includes the company logo, navigation links, email subscription field, copyright
 
 The website uses a clean, natural, and professional visual style. Dark forest green is combined with white and light neutral backgrounds to create a strong connection with outdoor and landscaping services. Large photography, rounded elements, clean typography, and spacious layouts help create a trustworthy and modern user experience.
 
-## Figma Proto Link
 
-https://www.figma.com/proto/KyirRrxi0fchBfVvID9FtT/All-Trees-Florida-INC?node-id=1-2&t=MGYZWI1bOThznVAq-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Main Goal
 
