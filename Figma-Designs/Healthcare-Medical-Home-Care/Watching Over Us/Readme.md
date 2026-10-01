@@ -4,8 +4,6 @@
 
 The website is crafted to highlight personal care, homemaking services, daily living assistance, flexible care schedules, caregiver support, and family resources while delivering a seamless experience across all devices. Warm visuals, calming layouts, accessible typography, and intuitive navigation create a reassuring journey for individuals and families looking for reliable in-home support.
 
-### Prototype Link:
-https://www.figma.com/proto/OjyvNBZWOX7oVBQsdAzwzC/Watching-Over-Us---Website-UI-Design?node-id=2-3&p=f&viewport=179%2C73%2C0.19&t=HNAfZwgmaZPhfNqE-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Project Highlights
 
