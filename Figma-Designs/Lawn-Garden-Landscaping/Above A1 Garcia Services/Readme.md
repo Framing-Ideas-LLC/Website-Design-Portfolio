@@ -4,9 +4,6 @@
 
 This website concept was designed to create a bold, professional, and approachable digital experience that makes it easy for customers to discover services and request assistance. Strong service-focused visuals, clean layouts, bold typography, structured content sections, and clear calls to action create a straightforward user journey from exploring services to getting in touch.
 
-### Prototype Link:
-https://www.figma.com/proto/1aWZxz5e4bYBhIxPZdDfl5/Above-A1-Garcia-Services---Website-UI-Design?node-id=2-2&p=f&viewport=475%2C137%2C0.21&t=WtTN5o7EUbaSZ0Ss-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
-
 ### Project Highlights
 
 * Modern Property & Home Services Website
