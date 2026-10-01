@@ -30,9 +30,7 @@ A luxury nail salon website designed for Evon Tran, focused on showcasing nail a
 
 The website uses a soft blush and white color palette with elegant typography, rounded cards, high-quality nail photography, and a minimal luxury aesthetic.
 
-## Figma Proto Link
 
-https://www.figma.com/proto/TNT5AS07vE5dZnZLKV8AVv/Evon-Tran?node-id=2-2&t=rUYRuUK6m0tmo1Dr-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Purpose
 
