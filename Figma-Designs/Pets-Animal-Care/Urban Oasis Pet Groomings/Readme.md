@@ -17,9 +17,6 @@ The design uses a soft white background with light blue sections and deep purple
 * Frequently asked questions section
 * Contact and information-focused footer
 
-## Figma Proto Link
-
-https://www.figma.com/proto/vcJQHyZKXRBLxQhRx8PYRU/Urban-Oasis-Pet-Grooming?node-id=2-5&t=spncgeQZPp7fCJbR-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ### Design Focus
 
