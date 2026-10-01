@@ -4,8 +4,6 @@
 
 The website is crafted to highlight truck parts, featured products, fleet solutions, product categories, special offers, and customer support while delivering a seamless experience across all devices. Strong product visuals, clean layouts, clear categorization, and intuitive navigation create an efficient shopping journey for customers looking to maintain and keep their fleets running reliably.
 
-### Prototype Link:
-https://www.figma.com/proto/4ec5jV01gAZ2H1KOcMqzaj/Melveney-Transport-West-TX---Website-UI-Design?node-id=11-5&p=f&viewport=-294%2C-1669%2C0.51&t=AV9CXk9RoalwhZwU-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Project Highlights
 
