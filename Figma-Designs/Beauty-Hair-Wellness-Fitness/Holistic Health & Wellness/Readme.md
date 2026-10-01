@@ -4,8 +4,6 @@
 
 The website is crafted to highlight mental health services, medical care, addiction recovery, chronic disease management and prevention, wellness resources, professional expertise, and accessible care options while delivering a seamless experience across all devices. Calming visuals, accessible layouts, clear typography, and thoughtful content organization create a welcoming experience for patients seeking comprehensive and respectful healthcare support.
 
-### Prototype Link:
-https://www.figma.com/proto/qVry7mveA00535WRrBS0Li/Holistic-Health---Wellness---Website-UI-Design?node-id=122-520&viewport=-969%2C-7544%2C0.56&t=92QETXVDMAQgJsqZ-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Project Highlights
 
