@@ -4,8 +4,6 @@
 
 The website is crafted to highlight lead generation services, qualified lead opportunities, industry targeting, lead verification, delivery process, and business benefits while delivering a seamless experience across all devices. Clean layouts, data-focused visuals, strong content hierarchy, and intuitive navigation create a professional digital experience for businesses looking to grow their sales pipeline with higher-quality prospects.
 
-### Prototype Link:
-https://www.figma.com/proto/4qhHJlw7A1yHGboj3qybpf/KARHUNO---Website-UI-Design?node-id=6-2&p=f&viewport=225%2C206%2C0.29&t=VRMmrbtBd0JTLmBI-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Project Highlights
 
