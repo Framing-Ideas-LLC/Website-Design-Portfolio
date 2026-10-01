@@ -21,9 +21,7 @@ A modern and professional website designed for SBC Solutions, a tax preparation 
 
 The website uses a clean corporate design with purple, black, white, and gold accents. Large imagery, modern typography, structured content sections, and strong visual hierarchy create a professional and credible appearance suitable for the financial and business consulting industry.
 
-## Figma Proto Link 
 
-https://www.figma.com/proto/CDxr2RrSJ1Afd9idg60LmC/SBC-Solutions-Tax-Preparation?node-id=5-81&t=jRFkEnhokSbLhWBW-0&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ## Purpose
 
