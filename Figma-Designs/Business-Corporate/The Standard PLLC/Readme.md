@@ -25,9 +25,6 @@ The website follows a clean, minimal, and professional visual style. Large image
 
 The layout is designed to clearly communicate the organization's services, values, and commitment to supporting individuals and communities.
 
-## Figma Proto Link
-
-https://www.figma.com/proto/xJOOyiQ33C5zCqf8Hqkz2m/The-Standard-PLLC-Landing-Page?node-id=0-3&t=L7o306NrcZWFEEjC-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Technologies
 
