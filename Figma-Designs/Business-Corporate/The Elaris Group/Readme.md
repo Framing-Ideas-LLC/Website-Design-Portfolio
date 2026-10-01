@@ -4,8 +4,6 @@
 
 The website is crafted to highlight therapy services, coaching programs, brand consulting, personal transformation resources, practitioner expertise, and client experiences while delivering a seamless experience across all devices. Calm visuals, thoughtful layouts, expressive typography, and intuitive navigation create a reassuring journey that encourages visitors to reconnect with themselves and move forward with greater confidence and clarity.
 
-### Prototype Link:
-https://www.figma.com/proto/FXADRJPyfHiDCA8Fa62ouz/The-Elaris-Group---Website-UI-Design?node-id=1-10&viewport=-191%2C-733%2C0.78&t=H8HHOdfl1DeUQ6Wn-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Project Highlights
 
