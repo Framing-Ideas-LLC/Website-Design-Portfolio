@@ -38,9 +38,7 @@ The website uses a clean and minimal visual style with white backgrounds, natura
 
 The main purpose of the website is to introduce Gems to Jewels Inc., communicate its mission, showcase travel and educational opportunities for children, promote upcoming events, and encourage visitors to connect, participate, or support the organization.
 
-## Figma Proto Link
 
-https://www.figma.com/proto/xdoCWZLKmysppwcNkj2bFp/GEMS-TO-JEWELS-INS?node-id=67-3034&t=EA2qkmXBwRR1NSWk-0&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ## Overall Experience
 
