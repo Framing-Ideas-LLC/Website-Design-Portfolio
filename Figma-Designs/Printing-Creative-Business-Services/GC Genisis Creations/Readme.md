@@ -4,8 +4,6 @@
 
 The website is crafted to highlight drone inspection services, aerial imaging capabilities, project showcases, service areas, and consultation options while delivering a seamless experience across all devices. Clean layouts, high-impact visuals, intuitive navigation, and professional branding create an engaging journey that communicates precision, efficiency, and reliability.
 
-### Prototype Link:
-https://www.figma.com/proto/E6DdbPy2ntDAZfs0RZ4EMd/GC-Genisis-Creations-D.F.S---Website-UI?node-id=13-10&viewport=353%2C250%2C0.16&t=AGyNZPVtW4WTtAJu-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Project Highlights
 
