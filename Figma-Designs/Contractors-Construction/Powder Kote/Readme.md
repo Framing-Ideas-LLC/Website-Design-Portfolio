@@ -4,8 +4,7 @@
 
 The website is crafted to highlight custom handrails, balustrades, gates, architectural metalwork, fabrication capabilities, and completed projects while delivering a seamless experience across all devices. Strong architectural photography, refined typography, industrial-inspired details, and sophisticated layouts create a premium digital experience that communicates craftsmanship, durability, and attention to detail.
 
-### Prototype Link:
-https://www.figma.com/proto/gHs3r5qmwhiNQjYaX96p3B/Powder-Kote---Website-UI-Design?node-id=1-53&viewport=123%2C-188%2C0.08&t=BKafVNaQxEGxAbg3-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+
 
 ### Project Highlights
 
