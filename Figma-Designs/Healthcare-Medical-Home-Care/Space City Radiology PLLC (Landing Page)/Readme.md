@@ -25,9 +25,7 @@ The landing page focuses on simplicity, readability, and easy navigation. Conten
 
 Healthcare / Radiology Landing Page
 
-### Figma Proto link
 
-https://www.figma.com/proto/wUKf2flvvcze1oCJsqP6m7/Space-City-Radiology-PLLC--Landing-Page-?node-id=122-428&t=9eYCR94V675732i9-0&scaling=min-zoom&content-scaling=fixed&page-id=122%3A427
 
 ### Focus
 
