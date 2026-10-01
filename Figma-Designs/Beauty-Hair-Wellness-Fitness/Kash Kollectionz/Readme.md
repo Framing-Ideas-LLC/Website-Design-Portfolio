@@ -4,8 +4,6 @@
 
 The website is crafted to highlight hair collections, product details, styling options, brand values, beauty inspiration, and shopping experiences while delivering a seamless experience across all devices. Elegant visuals, premium product photography, refined layouts, and intuitive navigation create a sophisticated digital journey that reflects the quality and care behind every collection.
 
-### Prototype Link:
-https://www.figma.com/proto/6WGc06BZ7zx4MRppPhj98G/Kash-Kollectionz---Website-UI-Design?node-id=7-3&p=f&viewport=-487%2C-822%2C0.7&t=cERopPwRfDrveoEM-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Project Highlights
 
