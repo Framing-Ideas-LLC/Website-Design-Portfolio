@@ -4,8 +4,7 @@
 
 The website is crafted to highlight academic programs, admissions, student life, faculty, events, and school achievements while delivering a seamless experience across all devices. Clean layouts, inspiring visuals, intuitive navigation, and a strong educational identity create an engaging journey that supports both current and prospective families.
 
-### Prototype Link:
-https://www.figma.com/proto/WQVnqbQuB2oZsoRtPXZ4ZI/Portsmouth-Public-School?node-id=416-837&p=f&viewport=350%2C285%2C0.07&t=GgoQ5N3n1YMXCWPy-1&scaling=scale-down-width&content-scaling=fixed&page-id=346%3A12
+
 
 ### Project Highlights
 
