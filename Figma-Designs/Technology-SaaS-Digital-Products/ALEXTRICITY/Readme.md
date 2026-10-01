@@ -4,8 +4,7 @@
 
 The website is crafted to highlight electrical services, service areas, expertise, emergency support, customer reviews, and contact options while delivering a seamless experience across all devices. Strong layouts, clear typography, professional visuals, and intuitive navigation create an engaging journey that communicates reliability, safety, and technical expertise.
 
-### Prototype Link:
-https://www.figma.com/proto/pUB9cRQ4UholZCDtTrRIvs/ALEXTRICITY---Website-UI-Design?node-id=5-33&viewport=523%2C240%2C0.12&t=1uzsCcUQQxMcIsnS-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+
 
 ### Project Highlights
 
