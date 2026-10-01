@@ -4,8 +4,7 @@
 
 The design focuses on warmth, trust, accessibility, and clear communication. Friendly imagery, calming visual elements, thoughtful typography, structured service information, and intuitive navigation work together to create an experience that reflects the organization's commitment to safe, supportive, and respectful care.
 
-### Prototype Link:
-https://www.figma.com/proto/9M3rfl7Vky33b320adybJe/PurPus-Supported-Living---Website-UI-Design?node-id=2-2&viewport=176%2C184%2C0.34&t=kky5TOvTCTiJhggf-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+
 
 ### Project Highlights
 
