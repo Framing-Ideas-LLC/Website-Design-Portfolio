@@ -4,8 +4,7 @@
 
 The website is crafted to highlight signature chocolate-covered strawberries, custom designs, celebration boxes, gift options, seasonal collections, and ordering information while delivering a seamless experience across all devices. Rich dessert photography, playful typography, elegant layouts, and appetizing visual details create an engaging digital experience that reflects the creativity and indulgence behind every creation.
 
-### Prototype Link:
-https://www.figma.com/proto/RU8JGtXfscj83xgQeKn4q8/FresasByKay---Website-UI-Design?node-id=4-8&viewport=159%2C79%2C0.28&t=8jXXlVYvm1KGUTWh-1&scaling=scale-down-width&content-scaling=fixed&page-id=4%3A7
+
 
 ### Project Highlights
 
