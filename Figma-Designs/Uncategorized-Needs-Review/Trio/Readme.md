@@ -43,7 +43,7 @@ This landing page is created to showcase sports apparel with a visually engaging
 * Customer Reviews
 * Footer
 
-Figma Proto Link: https://www.figma.com/proto/kM5OAn5XOIMTp2VKoYwbIl/TRIO?node-id=153-2065&t=TrzjJ2gdnlI3fotZ-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&fuid=1293156198961786736
+
 
 Purpose
 
