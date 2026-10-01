@@ -4,8 +4,7 @@
 
 The website is crafted to highlight freight brokerage services, full truckload and partial load shipping, carrier coordination, shipment management, real-time communication, and logistics support while delivering a seamless experience across all devices. Strong transportation imagery, structured layouts, bold typography, and clear calls to action create a professional digital experience built around reliability and trust.
 
-### Prototype Link:
-https://www.figma.com/proto/vX4mVo0r66bsnnuODmYsyN/Turbo-Freight---Website-UI-Design?page-id=0%3A1&node-id=3-4&viewport=-223%2C-486%2C0.71&t=Dvvo4qSRN74F4RzC-1&scaling=scale-down-width&content-scaling=fixed
+
 
 ### Project Highlights
 
