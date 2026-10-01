@@ -21,9 +21,7 @@ The website uses a bold and energetic visual style with vibrant pink and green b
 
 The design combines a professional nonprofit layout with an energetic community-focused identity. Bright pink accents create strong visual emphasis, while black, white, and soft pink backgrounds maintain readability and clear content separation.
 
-## Figma Proto Link 
 
-https://www.figma.com/proto/xA6LceBvMjhbOSvAQlidhD/Business-Showers?node-id=86-312&p=f&t=P9ZxTDoQYVUPUyoQ-0&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Purpose
 
