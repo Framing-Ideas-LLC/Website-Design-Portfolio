@@ -47,9 +47,7 @@ A modern mental wellness website designed to present psychiatric care, weight lo
 * JavaScript
 * Responsive Web Design
 
-## Figma Proto Link
 
-https://www.figma.com/proto/YfPxeHhwvdfIVtgvt5k14h/Mental-Health--Landing-Page-?node-id=15-118&t=SAIR3JPzgHIHEudF-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Purpose
 
