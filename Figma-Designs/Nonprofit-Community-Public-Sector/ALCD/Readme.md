@@ -33,9 +33,7 @@ The website presents ALCD's mission, childcare programs, community initiatives, 
 * Donation-focused conversion sections
 * Mobile-friendly single-column layout
 
-## Figma Proto Link
 
-https://www.figma.com/proto/oecK5zZD5nG5ab1iJKIOB6/ALCD?node-id=8020-299&t=oAKSN9WLT35vkEjc-0&scaling=min-zoom&content-scaling=fixed&page-id=8020%3A298
 
 ## Purpose
 
