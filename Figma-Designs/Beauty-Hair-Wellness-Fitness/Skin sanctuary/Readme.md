@@ -23,9 +23,6 @@ Skin Sanctuary is a modern skincare and beauty e-commerce website designed with 
 
 The design uses a combination of soft pastel tones, dark sections, elegant typography, high-quality skincare imagery, and spacious layouts. The overall visual direction focuses on creating a luxurious, trustworthy, and feminine skincare brand experience.
 
-## Figma Proto Link
-
-https://www.figma.com/proto/9yg85a1Z2C8B2N0Ih2Myr2/Skin-sanctuary?node-id=1-2&t=Xe8dfqteZbuehvXr-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Sections
 
