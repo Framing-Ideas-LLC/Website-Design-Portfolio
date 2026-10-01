@@ -20,9 +20,6 @@ The website introduces Queenz Like Me and its mission to help young girls build 
 
 The design uses a clean and modern layout with a soft purple color palette. Large editorial-style typography creates an inspiring and empowering visual identity, while spacious layouts, rounded cards, and authentic imagery give the website a warm and community-focused feel.
 
-## Figma Proto Link
-
-https://www.figma.com/proto/c1QG98JTLvW2KrjhbGmmtL/Queenz?node-id=1-2&t=nfg44zsC8IpSxUOg-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Purpose
 
