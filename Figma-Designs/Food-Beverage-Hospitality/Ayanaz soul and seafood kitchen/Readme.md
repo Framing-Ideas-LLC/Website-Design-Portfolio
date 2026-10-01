@@ -28,9 +28,7 @@ The website uses a bold yellow and magenta color palette with food-focused image
 * Warm, playful, and energetic restaurant aesthetic
 * Responsive layout suitable for desktop and mobile devices
 
-## Figma Proto Link
 
-https://www.figma.com/proto/HGaLFKAzVB9QNvst7Sq3dE/Ayanaz-soul-and-seafood-kitchen?node-id=134-2&t=Vkm0wf5PG4Gp300B-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Purpose
 
