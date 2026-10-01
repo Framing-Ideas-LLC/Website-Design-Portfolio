@@ -22,9 +22,7 @@ Know Your Sound is a modern music-focused website created for bass players and m
 
 The website uses a dark visual style combined with orange and gold highlights to create a premium music-oriented atmosphere. Large photography, rounded content cards, bold typography, and strong contrast are used to keep the interface engaging while maintaining clear content structure.
 
-## Figma Proto Link
 
-https://www.figma.com/proto/3U3K61LeVP1tQ4Ms4sxhQp/Know-your-Sound?node-id=12-9&t=ShfNLLCzlA9PbHWZ-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Sections
 
