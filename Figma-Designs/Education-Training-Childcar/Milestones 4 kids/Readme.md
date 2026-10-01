@@ -29,9 +29,7 @@ Real images of children and families are used throughout the website to build tr
 
 The layout is designed with clear content hierarchy, spacious sections, and strategically placed call-to-action buttons to guide visitors toward learning more or getting in touch.
 
-## Figma Proto Link 
 
-https://www.figma.com/proto/rj1wi2kz6lvXYt3cTxkEUE/Milestones-4-kids?node-id=86-2&t=22ZfWB8aRJdxBwuS-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Goal
 
