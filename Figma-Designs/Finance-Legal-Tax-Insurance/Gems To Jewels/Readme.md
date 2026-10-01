@@ -4,8 +4,6 @@
 
 The website is crafted to highlight travel education programs, passport readiness, travel safety resources, cultural learning, community service initiatives, fundraising campaigns, and civic engagement while delivering a seamless experience across all devices. Inspiring visuals, vibrant layouts, intuitive navigation, and purpose-driven storytelling create an engaging journey for children, families, supporters, volunteers, and community partners.
 
-### Prototype Link:
-https://www.figma.com/proto/F3enM05OjrXxK475BUcNJE/Gems-To-Jewels---Website-UI-Design?node-id=415-2&viewport=-16251%2C-13967%2C0.5&t=SB82aG0A9NNl8bug-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Project Highlights
 
