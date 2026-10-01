@@ -58,9 +58,6 @@ Elevated Operations is a modern business website designed for a construction, re
 * Renovation Businesses
 * Commercial Service Providers
 
-## Figma Proto Link
-
-https://www.figma.com/proto/o6tDDB8dmokGluNqHbaLnt/Construction---Elevated-Operation?node-id=1-2&p=f&t=LHhcP7duocezaXbn-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Purpose
 
