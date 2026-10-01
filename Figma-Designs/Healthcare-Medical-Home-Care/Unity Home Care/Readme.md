@@ -4,8 +4,6 @@
 
 The design focuses on making care information easy to understand while creating an emotional connection through compassionate messaging, approachable imagery, clear service presentation, and intuitive navigation. The overall visual direction combines warmth, professionalism, accessibility, and human-centered storytelling to reflect the personal nature of in-home care.
 
-### Prototype Link:
-https://www.figma.com/proto/wsFwh0SAQXEwP4rcVg1Byl/Unity-Home-Care---Website-UI-Design?node-id=5-2&p=f&viewport=-1352%2C48%2C0.58&t=3uczhNAkbiTsT6Tz-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Project Highlights
 
