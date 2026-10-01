@@ -28,9 +28,7 @@ The website uses a clean, warm visual style with a strong focus on readability, 
 * Realistic photography to create trust and a personal feel
 * Responsive grid-based layout for service and resource sections
 
-## Figma Proto Link
 
-https://www.figma.com/proto/3RDUuP7NNdm3rvfrpjej0l/Medicare-Monkey?node-id=4-2447&t=Z3UnWQSrll0mmlKf-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## UX Focus
 
