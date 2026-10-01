@@ -4,8 +4,6 @@
 
 The website is crafted to showcase luxury hair treatments, skincare services, beauty transformations, specialist expertise, and appointment options while delivering a seamless experience across all devices. Soft feminine visuals, elegant typography, refined layouts, and high-quality beauty imagery create a sophisticated digital experience that communicates confidence, indulgence, and self-care.
 
-### Prototype Link:
-https://www.figma.com/proto/BylydUot4MbZajqraEzo4J/Pink-Palace-Beauty---Website-UI-Design?node-id=1-9&viewport=305%2C175%2C0.13&t=XyZ7zUYOPEetccBx-1&scaling=scale-down-width&content-scaling=fixed&page-id=1%3A2
 
 ### Project Highlights
 
