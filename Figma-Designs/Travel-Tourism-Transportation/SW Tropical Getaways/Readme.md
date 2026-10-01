@@ -4,8 +4,6 @@
 
 The website is crafted to showcase tropical destinations, curated travel experiences, vacation packages, trip planning services, and destination inspiration while delivering a seamless experience across all devices. Vibrant visuals, immersive layouts, intuitive navigation, and destination-focused storytelling create an engaging journey that inspires visitors to explore, plan, and book their next getaway.
 
-### Prototype Link:
-https://www.figma.com/proto/TDPsLO9MbnTSPmEWIgIjs9/SW-Tropical-Getaways---Website-UI-Design?node-id=1-11&p=f&viewport=316%2C-125%2C0.44&t=RKF5YbxIXovESKhn-1&scaling=scale-down-width&content-scaling=fixed&page-id=1%3A2
 
 ### Project Highlights
 
