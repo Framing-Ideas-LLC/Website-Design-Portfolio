@@ -4,8 +4,6 @@
 
 The website is crafted to highlight comic illustration services, storyboarding, character concepts, inking, creative projects, artist portfolios, and publishing support while delivering a seamless experience across all devices. Bold visuals, expressive layouts, comic-inspired typography, and immersive storytelling create an engaging journey that reflects the energy and creativity of the BlackGodComics brand.
 
-### Prototype Link:
-https://www.figma.com/proto/CiOBijD5Mqk5NqvpRoYp11/Black-God-Comics---Website-UI-Design?node-id=5-28&viewport=414%2C-112%2C0.06&t=ifOjYFS2mAQQBwzC-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Project Highlights
 
