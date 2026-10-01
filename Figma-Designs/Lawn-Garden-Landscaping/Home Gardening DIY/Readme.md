@@ -4,8 +4,6 @@
 
 The website is crafted to highlight gardening guides, DIY projects, plant care tips, seasonal ideas, garden inspiration, and helpful resources while delivering a seamless reading experience across all devices. Fresh imagery, nature-inspired layouts, clear typography, and intuitive content discovery create an engaging journey for readers looking to transform their homes and outdoor spaces through gardening.
 
-### Prototype Link:
-https://www.figma.com/proto/sZ2w3LBaATXYwm6c17S3ux/Home-Gardening-DIY---Website-UI-Design?node-id=128-650&viewport=-168%2C142%2C0.14&t=wPQIOGcSUyqtEVIJ-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Project Highlights
 
