@@ -4,8 +4,6 @@
 
 The website is crafted to highlight jewelry collections, statement accessories, featured products, new arrivals, and the boutique's brand story while delivering a seamless shopping experience across all devices. Elegant visuals, refined typography, product-focused layouts, and intuitive navigation create an engaging journey for customers discovering timeless pieces and unique accessories.
 
-### Prototype Link:
-https://www.figma.com/proto/wzUTTHF3fU2DFYSSJWqWBg/Tasha-Trinkets-Boutique---Website-UI-Design?node-id=6-2&p=f&viewport=-2517%2C231%2C0.41&t=zMhGs61j7YBkdNWv-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Project Highlights
 
