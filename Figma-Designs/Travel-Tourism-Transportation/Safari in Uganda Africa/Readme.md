@@ -34,9 +34,7 @@ A modern safari and wildlife tourism website designed to promote Uganda safari e
 
 The website uses a nature-inspired visual style with earthy tones, wildlife photography, rounded content cards, and a clean modern layout. The design focuses heavily on large imagery to create an immersive safari experience while keeping the information easy to browse.
 
-## Figma Proto Link
 
-https://www.figma.com/proto/5ljArXEeohrh6tTaMV4i7e/Safari-in-Uganda-Africa?node-id=18-2&t=DKHna1pAIxoMNDYr-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Purpose
 
