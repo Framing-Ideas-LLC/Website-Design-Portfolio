@@ -4,8 +4,6 @@
 
 The website is crafted to highlight upcoming rides, community activities, cycling routes, membership opportunities, events, rider stories, and wellness-focused initiatives while delivering a seamless experience across all devices. Dynamic cycling photography, energetic typography, clean layouts, and community-driven storytelling create an engaging digital experience that captures the freedom and connection of riding together.
 
-### Prototype Link:
-https://www.figma.com/proto/j7tWw6juLzhW45MpMyEuU3/We-Bike-Global---Website-UI-Design?node-id=2-5&viewport=-494%2C45%2C0.3&t=E6ffzz8ZF7UsY6Vn-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Project Highlights
 
