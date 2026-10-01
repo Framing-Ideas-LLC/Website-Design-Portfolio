@@ -4,8 +4,6 @@
 
 The website is crafted to highlight 360° photo booth experiences, event packages, booking options, gallery content, customization options, and the brand's unique event services while delivering a seamless experience across all devices. Bold visuals, immersive event photography, energetic layouts, and engaging calls to action create a memorable digital experience that captures the excitement of SongBird 360.
 
-### Prototype Link:
-https://www.figma.com/proto/oephzVc3EeOjoydawlwR1s/SongBird-360-LLC---Website-UI-Design?page-id=0%3A1&node-id=3-10&viewport=162%2C74%2C0.22&t=NK6VgYQaKnkkiR5b-1&scaling=scale-down-width&content-scaling=fixed
 
 ### Project Highlights
 
