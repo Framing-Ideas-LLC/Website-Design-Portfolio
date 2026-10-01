@@ -22,9 +22,6 @@ Mozae Natural Mink Hair offers a luxury online shopping experience for customers
 
 The website uses a clean editorial layout with generous spacing, elegant typography, soft beige and cream backgrounds, and gold accent colors. High-quality lifestyle photography is used throughout the website to create a premium and trustworthy shopping experience.
 
-## Figma Proto Link
-
-https://www.figma.com/proto/fFEvmmeSQ3YSSPdylSYmnt/Mozae-Natural-Mink-Hair?node-id=1-2&t=NwHAla6j4WyMx40c-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Purpose
 
