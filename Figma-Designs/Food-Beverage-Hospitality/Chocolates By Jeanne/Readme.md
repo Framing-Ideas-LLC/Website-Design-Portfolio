@@ -4,8 +4,6 @@
 
 The website is crafted to highlight chocolate collections, signature creations, product details, gifting options, special occasions, and ordering information while delivering a seamless experience across all devices. Rich product imagery, elegant typography, refined layouts, and intuitive navigation create an immersive journey that reflects the premium and handcrafted nature of the brand.
 
-### Prototype Link:
-https://www.figma.com/proto/brgp01WBJ837dEHJWpSSnY/Chocolates-By-Jeanne---Website-UI-Design?node-id=9-11&viewport=228%2C144%2C0.07&t=h3OsenNVNULKQ5tE-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Project Highlights
 
