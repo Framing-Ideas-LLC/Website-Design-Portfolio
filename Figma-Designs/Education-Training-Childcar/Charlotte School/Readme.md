@@ -4,8 +4,6 @@
 
 The website is crafted to highlight phlebotomy and allied health programs, admissions information, course details, student resources, career opportunities, and enrollment options while delivering a seamless experience across all devices. Clean layouts, professional healthcare visuals, clear information hierarchy, and intuitive navigation create an engaging journey for both high school graduates and adults pursuing a new career path.
 
-### Prototype Link:
-https://www.figma.com/proto/upqUgxaNv3Ickk4MIgq2ny/Charlotte-School---Website-UI-Design?node-id=29-24&viewport=-167%2C-543%2C0.64&t=BdK1RgbHBKqPmndV-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Project Highlights
 
