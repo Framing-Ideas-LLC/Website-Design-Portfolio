@@ -19,9 +19,6 @@ The design focuses on creating a strong brand identity while making it easy for 
 * Responsive layout for desktop and mobile devices
 * Clean navigation and footer structure
 
-# Figma Proto Link
-
-https://www.figma.com/proto/GXmNJfRyiRgExTNmvjabgC/WESMOKE-BIKELIT?node-id=5-519&t=AJSja7DSPkR94eVm-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Design Focus
 
