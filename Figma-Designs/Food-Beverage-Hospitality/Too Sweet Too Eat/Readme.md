@@ -4,8 +4,7 @@
 
 The website is crafted to highlight dessert-inspired candles, wax melts, featured collections, product details, brand story, and customer favorites while delivering a seamless shopping experience across all devices. Playful visuals, appetizing product photography, elegant layouts, and intuitive navigation create an engaging journey that makes every product feel as delightful as the real dessert it represents.
 
-### Prototype Link:
-https://www.figma.com/proto/8S7ghB9fFPSGmuBFoJEqLH/Too-Sweet-Too-Eat---Website-UI-Design?node-id=4-2&viewport=310%2C-487%2C0.2&t=fpFyYCaD0F7aHJMQ-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+
 
 ### Project Highlights
 
