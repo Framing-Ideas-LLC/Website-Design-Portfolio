@@ -51,9 +51,6 @@ A structured footer containing navigation links, additional resources, contact i
 
 The design combines a soft and professional color palette with clean typography and rounded content cards. Large lifestyle images add warmth and emotional connection, while the spacious layout keeps the content easy to read and navigate.
 
-### Figma Proto Link
-
-https://www.figma.com/proto/wjAGXNQ5EMsCNyjHvcy59H/Ollie-Mae%E2%80%99s-Landing-Page?node-id=3-4&t=eT8JIBnaLGVrPJCb-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Goal
 
