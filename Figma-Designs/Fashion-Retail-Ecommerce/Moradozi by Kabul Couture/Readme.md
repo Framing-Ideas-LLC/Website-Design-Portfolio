@@ -35,9 +35,6 @@ The website combines a luxury visual style with a clean shopping experience, all
 * Customer Testimonials
 * Footer
 
-## Figma Proto Link
-
-https://www.figma.com/proto/wP3RmYdFQkDbQAfLby4P1K/Moradozi-by-Kabul-Couture?node-id=77-700&t=ToG3OUTCoXI4NYY2-0&scaling=min-zoom&content-scaling=fixed&page-id=77%3A6
 
 ## Design Approach
 
