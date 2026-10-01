@@ -46,9 +46,6 @@ The website uses:
 * Minimal call-to-action buttons
 * A strong contrast between dark and light sections
 
-## Figma Proto Link
-
-https://www.figma.com/proto/fQfxoPRHHW94jxIviFWtJc/Corris-Consulting---Design?node-id=42-95&t=lPLAdPtvuUbTN905-0&scaling=min-zoom&content-scaling=fixed&page-id=42%3A94
 
 ## Goal
 
