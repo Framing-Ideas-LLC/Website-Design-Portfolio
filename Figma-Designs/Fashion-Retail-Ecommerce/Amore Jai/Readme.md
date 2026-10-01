@@ -28,9 +28,7 @@ A premium luxury luggage and travel accessories website designed with an elegant
 * Premium product presentation with generous whitespace
 * Dark promotional sections for visual contrast
 
-## Figma Proto Link
 
-https://www.figma.com/proto/9TV2MIdd0hXH9sMHUhilhi/Amore-Jai?node-id=101-2&t=0RkXH4mb6XvG1fxb-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Sections
 
