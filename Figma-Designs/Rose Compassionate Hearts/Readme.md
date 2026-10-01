@@ -22,9 +22,7 @@ Roses & Hearts is a responsive website design for a senior home care and caregiv
 
 The design uses a soft pink and cream color palette combined with burgundy accents. Large photography, rounded cards, elegant typography, and spacious layouts create a warm and reassuring visual experience.
 
-## Figma Proto Link
 
-https://www.figma.com/proto/OT7nqbIJNerIMwmroi3VCe/Rose-Compassionate-Hearts?node-id=29-2&t=WuFuhGAoycUXsKlC-1
 
 ## Sections
 
