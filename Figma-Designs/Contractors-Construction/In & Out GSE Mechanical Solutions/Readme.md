@@ -4,8 +4,7 @@
 
 The website is crafted to highlight GSE maintenance, equipment repair, diagnostics, servicing capabilities, emergency support, and technical expertise while delivering a seamless experience across all devices. Strong industrial visuals, structured layouts, clear service categories, and intuitive navigation create a professional digital experience for aviation, transportation, and equipment-based operations.
 
-### Prototype Link:
-https://www.figma.com/proto/VRuQVRdYL8mVRm2Yaw1oKe/In---Out-GSE-Mechanical-Solutions---Website-UI-Design?node-id=66-821&viewport=57%2C-2156%2C0.28&t=arABT3t11caEPHS6-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+
 
 ### Project Highlights
 
