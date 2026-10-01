@@ -4,8 +4,7 @@
 
 The website is crafted to showcase FCTG's two key brands, **RTS QLD** and **First Class Training**, while clearly communicating their respective training offerings and areas of expertise. Professional layouts, confident typography, structured content, and intuitive navigation create a credible digital experience for students, employers, and training partners.
 
-### Prototype Link:
-https://www.figma.com/proto/JK766fMaocMhIL4H4y1sDR/First-Class-Training-Group---Website-UI-Design?node-id=6-2&p=f&viewport=94%2C-696%2C0.32&t=unW8FkyYIHO69n52-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+
 
 ### Project Highlights
 
