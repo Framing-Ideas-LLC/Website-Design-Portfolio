@@ -28,9 +28,6 @@ Bootsy is a modern fashion e-commerce website focused on stylish boot covers and
 
 The website uses a dark, high-contrast visual style with bold typography, vibrant product imagery, pink accent colors, and large editorial sections. The layout is designed to give the brand a premium and fashion-forward appearance.
 
-## Figma Proto Link
-
-https://www.figma.com/proto/lRIcJxlpaJz0juJBNLMlSM/Bootsy?node-id=21-385&t=kh6TuFOoQX4dgd0I-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Purpose
 
