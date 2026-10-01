@@ -4,8 +4,7 @@
 
 The website is crafted to highlight mobile grooming services, grooming packages, pet care expertise, booking options, service areas, and the brand's personalized approach while delivering a seamless experience across all devices. Friendly pet photography, clean layouts, soft visual elements, and intuitive navigation create a welcoming digital experience for pet owners looking for convenient and compassionate grooming.
 
-### Prototype Link:
-https://www.figma.com/proto/D5nIyDpF7hNSY1xzdxO74e/Urban-Oasis-Pet-Grooming---Website-UI-Design?page-id=1%3A2&node-id=11-6&viewport=61%2C-3%2C0.17&t=1lS2UGq1T1lIeXjT-1&scaling=scale-down-width&content-scaling=fixed
+
 
 ### Project Highlights
 
