@@ -38,9 +38,6 @@ A responsive healthcare website designed for **Busy Bees Specialized Care**, foc
 8. Free Consultation
 9. Footer
 
-## Figma Proto Link
-
-https://www.figma.com/proto/Bf1q4FSgG3v3TOw5P5bdAS/BusyBee-Inner-Pages?node-id=240-126&t=Xw4WAXOm4aPFRY3d-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Purpose
 
