@@ -4,8 +4,7 @@
 
 The website is crafted to highlight sportswear collections, featured products, new arrivals, best sellers, and performance apparel while delivering a seamless shopping experience across all devices. Dynamic visuals, bold typography, intuitive navigation, and streamlined shopping flows create an engaging journey from product discovery to checkout.
 
-### Prototype Link:
-https://www.figma.com/proto/3LTNCY2k8RQmWHbhnTGBcl/TRIO---Website-UI-Design?node-id=38-519&viewport=-741%2C411%2C0.07&t=XJEfAHKRz90IWVS8-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+
 
 ### Project Highlights
 
