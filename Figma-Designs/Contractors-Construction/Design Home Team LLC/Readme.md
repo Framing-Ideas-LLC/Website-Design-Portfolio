@@ -24,9 +24,6 @@ The overall design follows a premium and professional real estate aesthetic. Lar
 
 The layout combines clean typography, spacious sections, structured content blocks, image cards, and clear call-to-action buttons to create a modern and polished user experience.
 
-### Figma Proto Link
-
-https://www.figma.com/proto/Vf01zsyTzTibhDWy8rg3hS/Design-Home-Team-LLC--Landing-Page-?node-id=44-404&t=X0MllBM1xeC9DBwq-0&scaling=min-zoom&content-scaling=fixed&page-id=36%3A2
 
 ### Key Features
 
