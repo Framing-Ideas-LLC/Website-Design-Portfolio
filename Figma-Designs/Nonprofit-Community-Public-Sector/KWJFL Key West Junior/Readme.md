@@ -4,8 +4,6 @@
 
 The website is crafted to highlight league information, tournaments, teams, player development, schedules, registration, news, events, and community involvement while delivering a seamless experience across all devices. Energetic sports imagery, bold typography, dynamic layouts, and intuitive navigation create an exciting digital experience that reflects the competitive yet welcoming spirit of youth football.
 
-### Prototype Link:
-https://www.figma.com/proto/VVPu7nrCUp6b6foaJDGaA9/KWJFL-Key-West-Junior---Website-UI-Design?page-id=0%3A1&node-id=3-10&p=f&viewport=280%2C45%2C0.1&t=FdKtp8snWEoM6ux9-1&scaling=scale-down-width&content-scaling=fixed
 
 ### Project Highlights
 
