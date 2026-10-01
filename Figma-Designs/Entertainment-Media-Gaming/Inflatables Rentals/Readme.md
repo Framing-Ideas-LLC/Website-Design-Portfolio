@@ -38,9 +38,6 @@ The design uses a bright, playful, and family-oriented visual style that fits th
 10. Party Extras
 11. Footer and Contact Form
 
-## Figma Proto Link
-
-https://www.figma.com/proto/zOD3NImzRsY6DlCuwL8Og0/Inflatables-Rentals?node-id=72-3&t=A974bDWlTf8pcGnF-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Technologies
 
