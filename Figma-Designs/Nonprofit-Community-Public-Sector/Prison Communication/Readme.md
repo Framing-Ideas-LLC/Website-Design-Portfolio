@@ -19,9 +19,6 @@ PulseCheck is a modern prison communication platform designed to help incarcerat
 
 The website uses a clean, minimal layout with a dark and light color combination. Teal is used as the primary accent color to highlight buttons, icons, cards, and important sections. Large imagery, structured content blocks, and card-based layouts create a professional and user-friendly experience.
 
-## Figma Proto Link
-
-https://www.figma.com/proto/AitMdNZ88pQUoE3FV6EkP5/Prison-Communication?node-id=5-2&t=w32p61ckAaxfLh4L-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Sections
 
