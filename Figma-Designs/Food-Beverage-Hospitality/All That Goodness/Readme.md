@@ -4,8 +4,7 @@
 
 This website concept was designed to create a warm, natural, and trustworthy shopping experience that reflects the brand's connection to herbal ingredients and mindful living. Earthy tones, clean layouts, organic visual elements, product-focused imagery, and intuitive navigation work together to create a calm and approachable e-commerce experience.
 
-### Prototype Link:
-https://www.figma.com/proto/qztgtg2abGl5IPC93ial3m/All-That-Goodness---Website-UI-Desig?node-id=5-4&p=f&viewport=81%2C289%2C0.08&t=aaXi0K5U0YQP0dkQ-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+
 
 ### Project Highlights
 
