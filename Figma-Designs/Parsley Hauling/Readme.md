@@ -28,9 +28,7 @@ The website uses a dark, industrial visual style with high-contrast typography, 
 * Clean service-focused layouts
 * Conversion-focused call-to-action sections
 
-## Figma Proto Link
 
-https://www.figma.com/proto/spPvBZLmxWD1VmqsDvpL33/Parsley-Hauling?node-id=0-1&t=86LTzDimxIXoeeVb-1
 
 ## Services Featured
 
