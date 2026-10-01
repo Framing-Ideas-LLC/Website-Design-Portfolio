@@ -56,9 +56,7 @@ A contact area containing academy details, contact information, social links, an
 
 A structured footer with branding, navigation links, contact information, and social media links.
 
-## Figma Proto Link
 
-https://www.figma.com/proto/BJFNgukgPHXbkI27Rbafjj/TOTAL-TECHNIQUE-ACADEMY?node-id=4002-2&t=IGKjdrdDITRDfHrV-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Design Style
 
