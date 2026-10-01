@@ -4,8 +4,6 @@
 
 The website is crafted to highlight aesthetic treatments, beauty services, clinic information, practitioner expertise, treatment details, and appointment options while delivering a seamless experience across all devices. Sophisticated visuals, refined typography, clean layouts, and intuitive navigation create an engaging journey for clients exploring treatments and planning their visit.
 
-### Prototype Link:
-https://www.figma.com/proto/DscrbjJbTHv4lqoPwzsO34/Viva-Aesthetics-Clinic---Website-UI-Design?node-id=351-3&p=f&viewport=-1016%2C-355%2C0.24&t=a0J1lui0ksXw8q8N-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Project Highlights
 
