@@ -4,8 +4,7 @@
 
 The website is crafted to highlight signature nail services, custom designs, nail art inspiration, booking options, and the artist's expertise while delivering a seamless experience across all devices. Elegant beauty photography, refined typography, clean layouts, and stylish visual details create a premium digital experience that reflects the artistry and attention to detail behind every set.
 
-### Prototype Link:
-https://www.figma.com/proto/ccGE6shnS6OR1hiVRppbkG/Evon-Tran---Website-UI-Design?node-id=2-2&viewport=182%2C99%2C0.23&t=mosD3lisOvFZK4oW-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+
 
 ### Project Highlights
 
