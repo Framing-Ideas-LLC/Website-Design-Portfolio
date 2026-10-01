@@ -22,9 +22,6 @@ The website uses a soft and sophisticated visual style with neutral backgrounds,
 
 The interface follows a clean and premium legal-service aesthetic. Large serif headings create an elegant and trustworthy feel, while minimal layouts, generous spacing, soft colors, and professional photography give the website a polished appearance.
 
-## Figma Proto Link
-
-https://www.figma.com/proto/bE98IEVTKLA7Mbk8LXO8tu/Golden-Signature-LLC?node-id=1-2&t=Bh8lX1kioGmyKdkW-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Features
 
