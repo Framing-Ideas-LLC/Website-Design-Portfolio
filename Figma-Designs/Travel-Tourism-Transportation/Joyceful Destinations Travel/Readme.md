@@ -4,8 +4,7 @@
 
 The website is crafted to highlight group travel, resort vacations, cruises, destination experiences, travel planning services, and expert guidance while delivering a seamless experience across all devices. Vibrant destination imagery, elegant layouts, engaging typography, and intuitive navigation create an inspiring journey that makes travel planning feel exciting, simple, and stress-free.
 
-### Prototype Link:
-https://www.figma.com/proto/XUQj6C93u0Lfh69ZNk6CHP/Joyceful-Destinations-Travel---Website-UI-Design?node-id=6-3&viewport=471%2C105%2C0.17&t=IID1BCwZKa671HRQ-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+
 
 ### Project Highlights
 
