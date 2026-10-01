@@ -48,9 +48,6 @@ A modern and responsive photography and photobooth landing page designed to show
 - Simple navigation
 - Mobile-friendly design
 
-## Figma Proto Link
-
-https://www.figma.com/proto/TLviWxN3URcUNUgsuGoNH8/YNA-Photobooth?node-id=0-3&t=KQdnLpBEygkqcYwN-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Purpose
 
