@@ -4,8 +4,6 @@
 
 The website is crafted to highlight global solutions, business services, industry expertise, international operations, company capabilities, and growth-focused initiatives while delivering a seamless experience across all devices. Sophisticated visuals, structured layouts, strong typography, and intuitive navigation create a professional digital experience that reflects Total Global's international reach and forward-thinking approach.
 
-### Prototype Link:
-https://www.figma.com/proto/z9HfBwIemr1Fh0VcKRbu5G/Total-Global-Enterprise---Website-UI-Design?node-id=58-2&p=f&viewport=-3%2C-17%2C0.1&t=KyuWfYMvmLrDI9Su-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Project Highlights
 
