@@ -4,8 +4,7 @@
 
 The website is crafted to highlight cheerleading programs, training opportunities, teams, competitions, athlete development, coaches, achievements, and registration while delivering a seamless experience across all devices. Energetic visuals, bold layouts, dynamic typography, and intuitive navigation create an engaging digital experience that reflects the passion and competitive spirit of Lady Royals HTX.
 
-### Prototype Link:
-https://www.figma.com/proto/wyOFoUFan3qaD46KpX1oO0/Lady-Royals-HTX---Website-UI-Design?node-id=13-272&viewport=289%2C90%2C0.09&t=5blk2YtOYpucwuWa-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+
 
 ### Project Highlights
 
