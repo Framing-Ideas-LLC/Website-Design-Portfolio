@@ -4,8 +4,6 @@
 
 The design combines a warm, modern, and inspirational visual direction with clear content organization and intuitive navigation. Strong imagery, meaningful messaging, engaging typography, community-focused sections, and prominent calls to action create an inviting experience for both existing members and people discovering Committed Life for the first time.
 
-### Prototype Link:
-https://www.figma.com/proto/ZXdP4ac8vxCBNoRyyR0Ffo/Committed-Life---Website-UI-Design?node-id=2-3&viewport=401%2C100%2C0.11&t=ZLjmdzNtzYSU0EiP-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ### Project Highlights
 
