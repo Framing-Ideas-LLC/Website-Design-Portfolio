@@ -37,9 +37,6 @@ The website follows a modern healthcare aesthetic with:
 * Trust-focused messaging
 * Simple navigation and user flow
 
-## Figma Proto Link
-
-https://www.figma.com/proto/3RDUuP7NNdm3rvfrpjej0l/Medicare-Monkey?node-id=4-2447&t=w69bG9HScQPVWp7O-1
 
 ## Sections
 
