@@ -4,8 +4,7 @@
 
 The website is crafted to highlight psychiatric services, personalized care, treatment information, provider expertise, patient resources, and appointment options while delivering a seamless experience across all devices. Warm visuals, calming layouts, accessible typography, and thoughtful content hierarchy create a reassuring journey for individuals taking the first step toward professional support.
 
-### Prototype Link:
-https://www.figma.com/proto/N4VepYBceEMARByuULV9we/For-the-Love-of-You-Psychiatry---Website-UI-Design?node-id=1-5&p=f&viewport=114%2C204%2C0.04&t=5z4wuI7I7sJZB5qW-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+
 
 ### Project Highlights
 
