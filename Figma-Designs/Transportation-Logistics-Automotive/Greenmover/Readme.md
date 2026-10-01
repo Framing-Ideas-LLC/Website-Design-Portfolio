@@ -23,9 +23,7 @@ The homepage introduces the moving company with a strong hero section, clear mes
 
 The website combines a light and clean interface with dark green content sections for visual contrast. Large editorial typography is paired with modern sans-serif text, while subtle yellow and green accents are used to highlight important information and calls to action.
 
-## Figma Proto Link
 
-https://www.figma.com/proto/tsssaCURuFFuvmztsdqar6/Greenmover?node-id=2-195&t=BsMbBxpxh3Bk0Cwt-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Purpose
 
