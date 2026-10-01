@@ -32,9 +32,7 @@ Pawsitively Perfect is a modern and friendly pet care website designed to showca
 
 The website uses a soft lavender background, white content sections, orange accent buttons, and purple decorative elements. Rounded cards, pet imagery, and friendly typography create a warm and approachable experience for pet owners.
 
-## Figma Proto Link
 
-https://www.figma.com/proto/P1ohKAQb3FsjblLEA93Hnc/Pawsitively-perfect?node-id=0-3&t=qT6pFr8a4OlmHHo5-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Purpose
 
