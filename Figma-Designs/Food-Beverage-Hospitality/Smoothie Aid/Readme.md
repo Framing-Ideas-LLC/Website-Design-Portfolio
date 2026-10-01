@@ -4,8 +4,7 @@
 
 The website is crafted to highlight organic smoothie blends, fresh ingredients, functional nutrition, the cold-press process, product benefits, and wellness education while delivering a seamless experience across all devices. Fresh food imagery, clean layouts, vibrant natural visuals, and intuitive navigation create an energetic digital experience that communicates freshness, transparency, and simplicity.
 
-### Prototype Link:
-https://www.figma.com/proto/tBKvO8VKhLgrVYinwPmGgg/Smoothie-Aid---Website-UI-Design?page-id=0%3A1&node-id=97-12009&viewport=72%2C78%2C0.3&t=mYRDVPYZHqo8kpVV-1&scaling=scale-down-width&content-scaling=fixed
+
 
 ### Project Highlights
 
