@@ -4,8 +4,6 @@
 
 The website is crafted to highlight the restaurant's menu, signature dishes, dining experience, reservations, events, and brand story while delivering a seamless experience across all devices. Refined visuals, elegant typography, sophisticated layouts, and intuitive navigation create an engaging journey that reflects the quality and character of the Gourmet Delights experience.
 
-### Prototype Link:
-https://www.figma.com/proto/5eDALVneR68mQK0O00G1cn/Gourmet-Delights---Website-UI-Design---Draft?node-id=15-3&viewport=577%2C294%2C0.32&t=gj26Y2vbEYosRIPe-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Project Highlights
 
