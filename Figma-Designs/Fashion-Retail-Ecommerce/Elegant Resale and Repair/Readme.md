@@ -22,9 +22,7 @@ The website features a clean and elegant layout that highlights premium products
 
 The website uses a minimal and premium visual style with neutral colors, large product imagery, clean typography, and spacious layouts. The overall design helps create a professional and trustworthy experience for customers interested in pre-loved luxury handbags and repair services.
 
-## Figma Proto Link
 
-https://www.figma.com/proto/fnBHD7ounKW82V2cSmiDSi/Elegant-Resale-and-Repair?node-id=3-2&t=9f7KCtDuKlLeqbXY-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Purpose
 
