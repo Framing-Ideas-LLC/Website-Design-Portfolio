@@ -20,9 +20,7 @@ The homepage features a warm and professional visual style with calming colors, 
 
 The interface uses a soft blue, white, and neutral color palette to create a calm and trustworthy healthcare experience. Large caregiving images, structured content cards, subtle gradients, and clean spacing help create a professional and approachable user experience.
 
-## Figma Proto Link
 
-https://www.figma.com/proto/aqSbLp04ZPNyj0P5TBjPmp/Psalms-of-Hope?node-id=2-545&t=r2nYBwGJLHC5b5Ma-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Goal
 
