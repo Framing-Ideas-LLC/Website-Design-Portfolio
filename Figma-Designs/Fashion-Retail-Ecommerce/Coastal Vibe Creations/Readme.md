@@ -4,8 +4,6 @@
 
 The website is crafted to highlight handmade collections, featured journals, custom woodworking pieces, product stories, and the brand's creative journey while delivering a seamless shopping experience across all devices. Natural visuals, elegant layouts, coastal-inspired aesthetics, intuitive navigation, and detailed product presentation create an engaging journey for customers who appreciate unique, handcrafted creations.
 
-### Prototype Link:
-https://www.figma.com/proto/Zj414yIbc8Zb8amtbIoTvK/Coastal-Vibe-Creations---Website-UI-Design?node-id=59-2&viewport=-23%2C14%2C0.14&t=rQC3ZMsH48QpNKaN-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Project Highlights
 
