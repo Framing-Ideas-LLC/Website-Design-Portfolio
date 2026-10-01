@@ -38,9 +38,7 @@ The website introduces UISAT and highlights its experience in providing IT solut
 * Strong call-to-action sections
 * Professional business-oriented visual style
 
-## Figma Proto Link
 
-https://www.figma.com/proto/Ha4RClMmpljoDT17h0ttTF/IT-Solutions?node-id=44-381&t=xBT1RZz1jpT1sWHr-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Purpose
 
