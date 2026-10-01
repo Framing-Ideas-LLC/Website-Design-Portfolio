@@ -30,9 +30,7 @@ The website uses a premium dark and gold visual style to create a professional, 
 * Clear CTA placement throughout the page
 * Responsive and conversion-focused layout
 
-## Figma Proto Link
 
-https://www.figma.com/proto/oZVUGOoO4oXnPrtlWl2Vl9/MJPF-Moving-People-Forward?node-id=7-3&t=SqPPG2Rca3EIKQEh-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Purpose
 
