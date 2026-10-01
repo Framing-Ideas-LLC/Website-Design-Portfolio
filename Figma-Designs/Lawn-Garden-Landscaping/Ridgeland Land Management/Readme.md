@@ -4,9 +4,6 @@
 
 The website is crafted to highlight land clearing, property maintenance, environmental stewardship, site preparation, and long-term land management services while delivering a seamless experience across all devices. Strong outdoor imagery, earthy visual elements, structured layouts, and clear navigation create a professional digital experience that reflects the company's hands-on expertise and commitment to lasting results.
 
-### Prototype Link:
-https://www.figma.com/proto/RVOzPpwp5jQzgak3jKX6Vh/Ridgeland-Land-Management---Website-UI-Design?page-id=0%3A1&node-id=2-2&viewport=386%2C45%2C0.13&t=8jGmZtGpI4hwUi28-1&scaling=scale-down-width&content-scaling=fixed
-
 ### Project Highlights
 
 * Modern Land Management UI/UX Design
