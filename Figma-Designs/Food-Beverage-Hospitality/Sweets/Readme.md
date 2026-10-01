@@ -40,9 +40,6 @@ A visually rich bakery and dessert website designed to showcase handcrafted swee
 10. Instagram Gallery
 11. Footer
 
-## Figma Proto Link
-
-https://www.figma.com/proto/qqCehplQnini9uuApkxLkW/Sweets?node-id=25-196&t=W4wqUSpjjkWdeay3-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Overall
 
