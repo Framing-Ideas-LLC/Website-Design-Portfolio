@@ -4,8 +4,6 @@
 
 The website is crafted to highlight lawn care services, garden maintenance, landscaping solutions, seasonal services, service areas, and customer experiences while delivering a seamless experience across all devices. Fresh visuals, natural imagery, clean layouts, and intuitive navigation create an engaging journey that reflects the company's dedication to maintaining beautiful, healthy, and well-kept outdoor spaces.
 
-### Prototype Link:
-https://www.figma.com/proto/ZE8vwVE3UHb4v7aFcdFWWr/Mc-Gills-Lawn-and-Garden-Service---Website-UI-Design?node-id=1-14&viewport=613%2C287%2C0.21&t=UdgOyuQKkIfh0Px2-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Project Highlights
 
