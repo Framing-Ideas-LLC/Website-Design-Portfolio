@@ -4,8 +4,6 @@
 
 The website is crafted to communicate efficiency, organization, and peace of mind while showcasing how Next Management helps teams reduce administrative work and avoid missed deadlines. Clean SaaS-inspired layouts, structured dashboards, professional typography, and clear calls to action create a polished digital experience built for modern businesses.
 
-### Prototype Link:
-https://www.figma.com/proto/v6FGECQJfzVxcvf3lIC4SE/Next-Management---Website-Design?node-id=10-28&p=f&viewport=327%2C193%2C0.15&t=CMmHjUnyFgaLM3Xm-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Project Highlights
 
