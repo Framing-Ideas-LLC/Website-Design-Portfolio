@@ -40,9 +40,7 @@ A modern and responsive healthcare education website designed for a medical scho
 
 The design uses a clean white and light gray background combined with a dark navy blue accent color. Medical imagery, structured cards, modern typography, and spacious layouts create a professional and trustworthy experience suitable for a healthcare education platform.
 
-## Figma Proto Link
 
-https://www.figma.com/proto/rZHZqTt1DZKAZukAAbE3Vt/Health-School?node-id=1-3&t=FjyZGdmurIGbZAgB-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Technologies
 
