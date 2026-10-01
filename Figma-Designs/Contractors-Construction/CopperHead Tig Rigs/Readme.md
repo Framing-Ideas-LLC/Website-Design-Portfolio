@@ -4,8 +4,6 @@
 
 The website is crafted to highlight TIG rigs, welding equipment, customized setups, American-made products, product specifications, craftsmanship, and ordering options while delivering a seamless experience across all devices. Industrial visuals, bold typography, rugged layouts, and strong product presentation create an engaging journey that reflects the hands-on expertise and South East Texas roots behind every rig.
 
-### Prototype Link:
-https://www.figma.com/proto/Ygt68ITRjRT1cxuugXlSyX/CopperHead-Tig-Rigs---Website-UI-Design?node-id=4-8&viewport=184%2C204%2C0.1&t=URPE79GyIG9Hh88G-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Project Highlights
 
