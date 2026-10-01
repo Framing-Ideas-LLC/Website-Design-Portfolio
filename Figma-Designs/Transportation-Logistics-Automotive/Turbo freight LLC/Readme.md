@@ -46,9 +46,6 @@ The website focuses on presenting TurboFreight's logistics services, reliability
 
 The design uses a professional logistics-focused visual style with dark blue as the primary color and orange as the main accent. Large transportation imagery, clear typography, structured content sections, and strong call-to-action buttons create a trustworthy and business-oriented experience.
 
-## Figma Proto Link
-
-https://www.figma.com/proto/KjwzOlEDxP4DhsRm9X8HMZ/Turbo-freight-LLC?node-id=4-2&t=fPdG44k3IeyJYuu4-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Goal
 
