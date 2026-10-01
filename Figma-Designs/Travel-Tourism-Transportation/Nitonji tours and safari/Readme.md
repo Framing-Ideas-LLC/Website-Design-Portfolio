@@ -20,9 +20,7 @@ A modern and visually engaging tourism website designed for Ntonji Zanzibar Tour
 
 The design uses a travel-inspired visual style with vibrant destination photography, warm orange accents, deep blue tones, rounded cards, and clean white sections. Large imagery is used throughout the page to create an immersive tourism experience while keeping the content easy to scan.
 
-## Figma Proto Link
 
-https://www.figma.com/proto/6kMs7IMGB129n012TxopuW/Nitonji-tours-and-safari?node-id=44-720&t=V3LEZemB9eFvO8h5-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Main Sections
 
