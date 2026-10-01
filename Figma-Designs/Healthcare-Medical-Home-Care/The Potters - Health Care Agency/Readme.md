@@ -26,9 +26,7 @@ A modern and professional healthcare agency website designed to present compassi
 
 The website is built to establish trust and make it easier for individuals and families to find reliable home healthcare services. Its structured content, healthcare imagery, service information, and prominent calls to action guide visitors toward requesting care or contacting the agency.
 
-## Figma Proto Link
 
-https://www.figma.com/proto/luy3DTqivFmWwcm4r3dy8O/The-Potters---Health-Care-Agency?node-id=170-142&t=4lf118E3NGzEaKHL-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ### Design Style
 
