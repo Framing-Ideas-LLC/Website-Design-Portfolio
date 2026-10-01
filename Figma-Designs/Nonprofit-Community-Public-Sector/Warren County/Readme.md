@@ -4,8 +4,7 @@
 
 The website is crafted to highlight historic attractions, outdoor adventures, local wineries, dining experiences, accommodations, and seasonal events while delivering a seamless experience across all devices. Scenic visuals, intuitive navigation, and interactive layouts create an inspiring journey for visitors seeking relaxation, adventure, and cultural exploration in the heart of the Shenandoah Valley.
 
-### Prototype Link:
-https://www.figma.com/proto/gUX8me9RARY1hgTw224cRa/Warren-County---Tourism---Travel-Website?node-id=164-6&p=f&viewport=330%2C54%2C0.06&t=M1tTGBFtHy7KO3sC-1&scaling=scale-down-width&content-scaling=fixed&page-id=164%3A5
+
 
 ### Project Highlights
 
