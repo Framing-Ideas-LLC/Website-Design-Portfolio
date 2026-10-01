@@ -4,8 +4,7 @@
 
 The website is crafted to highlight health communication projects, reproductive health initiatives, disease prevention campaigns, healthcare access programs, community outreach, educational resources, and project outcomes while delivering a seamless experience across all devices. Clear information architecture, purposeful visuals, accessible typography, and engaging storytelling create an informative digital experience for communities, partners, healthcare organizations, and stakeholders.
 
-### Prototype Link:
-https://www.figma.com/proto/2zbc4qeV4eZc1pklQOnTgH/Impala-Communications---Website-UI-Design?node-id=2-6&p=f&viewport=309%2C269%2C0.03&t=N1gqM8g5FgohML1g-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+
 
 ### Project Highlights
 
