@@ -4,8 +4,7 @@
 
 The website is crafted to highlight the investment strategy, market insights, performance information, methodology, educational resources, and client opportunities while delivering a seamless experience across all devices. Sophisticated financial visuals, data-focused layouts, strong typography, and intuitive navigation create an engaging journey for users exploring a structured approach to the stock market.
 
-### Prototype Link:
-https://www.figma.com/proto/v7vZF88sj9BboPNLn6PF5g/Condor-Capital---Website-UI-Design?node-id=4-5&viewport=234%2C-177%2C0.12&t=Sy2HpfmwvFb22czZ-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+
 
 ### Project Highlights
 
