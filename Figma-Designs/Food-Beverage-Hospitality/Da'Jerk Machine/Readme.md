@@ -4,8 +4,6 @@
 
 The website is crafted to showcase traditional Jamaican dishes, signature specialties, the restaurant's story, catering options, events, and dining experience while delivering a seamless experience across all devices. Rich food photography, vibrant layouts, cultural storytelling, and intuitive navigation create an immersive journey that brings the warmth, flavors, and spirit of Jamaica to the digital experience.
 
-### Prototype Link:
-https://www.figma.com/proto/Zz4GJQgLRd7tNJR9fq5p5u/Da--Jerk-Machine---Website-UI-Design?node-id=4-2&viewport=264%2C139%2C0.13&t=nmx3cEnB9yIbmvQa-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Project Highlights
 
