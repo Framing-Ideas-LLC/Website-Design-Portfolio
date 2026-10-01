@@ -33,9 +33,7 @@ The website promotes tax resolution services, referral agent opportunities, tax 
 * FAQ accordion layout
 * Promotional sections for training and referral programs
 
-## Figma Proto Link
 
-https://www.figma.com/proto/vFmISs1OaBsOQl96I76Ahm/Alleviation-Associates-Tex-Debt-Professionals?node-id=1-2&t=Lr7P3xpacro2QLkT-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Purpose
 
