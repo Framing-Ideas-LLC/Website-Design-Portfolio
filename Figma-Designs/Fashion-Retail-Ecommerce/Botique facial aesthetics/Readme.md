@@ -29,9 +29,6 @@ The website presents a boutique aesthetic clinic with a strong focus on natural 
 * Responsive-friendly section structure
 * Premium healthcare and beauty brand presentation
 
-## Figma Proto Link
-
-https://www.figma.com/proto/z0n7o7sgYg4ccWk89PwTWc/Botique-facial-aesthetics?node-id=26-454&t=z8tlbT8hhquN4eVh-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Purpose
 
