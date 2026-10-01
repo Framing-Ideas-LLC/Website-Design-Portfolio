@@ -4,8 +4,7 @@
 
 The website is crafted to highlight residential and commercial epoxy flooring, flooring systems, installation processes, project applications, material quality, and workmanship guarantees while delivering a seamless experience across all devices. Bold industrial imagery, strong typography, structured layouts, and rugged visual details create a confident digital experience that communicates craftsmanship, reliability, and performance.
 
-### Prototype Link:
-https://www.figma.com/proto/FZwspRHo0I7i5J8Y9vgt0h/Hard-Knox-Epoxy---Website-UI-Design?node-id=1-5&viewport=-520%2C455%2C0.4&t=CPzkOgvbWrnf06Vg-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+
 
 ### Project Highlights
 
