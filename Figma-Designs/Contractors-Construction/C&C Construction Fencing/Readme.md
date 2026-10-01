@@ -4,8 +4,6 @@
 
 The design uses a strong construction-inspired visual direction with clean layouts, bold typography, high-quality project imagery, and clear calls to action. The website structure focuses on building trust, showcasing craftsmanship, highlighting services, and creating a straightforward journey from discovering the company to requesting a quote.
 
-### Prototype Link:
-https://www.figma.com/proto/0WTJS7m5Gfg3YBxCf7b7Vu/C-C-Construction-Fencing---Website-UI-Design?node-id=4-2&p=f&viewport=-692%2C-1352%2C0.48&t=TQ3PW9KuTnPVpiYP-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Project Highlights
 
