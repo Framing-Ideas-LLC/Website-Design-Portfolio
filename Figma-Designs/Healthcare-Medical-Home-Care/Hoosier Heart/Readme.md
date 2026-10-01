@@ -45,9 +45,7 @@ This website was created to present home care services in a professional and wel
 * Contact information in footer
 * Mobile-friendly interface
 
-## Figma Proto Link
 
-https://www.figma.com/proto/Q25qzPGn5twwgYAjpRF7Ae/Hoosier-Heart?node-id=1-2&t=FFZgTjtEtk4kQNvG-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Design Style
 
