@@ -47,9 +47,7 @@ The website uses a fresh and welcoming visual style with green and yellow accent
 
 The main purpose of this website is to provide travelers with an easy way to discover destinations, explore tours and activities, find travel inspiration, and contact the travel company for trip planning and bookings.
 
-## Figma Proto Link 
 
-https://www.figma.com/proto/KbG9FXnzPgkx1Zh6nVYRSm/Travel-Business?node-id=1-2&t=TdMiOz1IE1hxuVpi-0&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ## Suitable For
 
