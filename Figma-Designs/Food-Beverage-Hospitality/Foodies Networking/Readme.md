@@ -4,8 +4,7 @@
 
 The website is crafted to highlight community recipes, food photography, cooking ideas, culinary trends, kitchen hacks, member profiles, discussions, and shared experiences while delivering a seamless experience across all devices. Vibrant visuals, appetizing imagery, engaging layouts, and intuitive navigation create an inviting digital journey for anyone passionate about food.
 
-### Prototype Link:
-https://www.figma.com/proto/XeBkPDlZA5z6XdvZn6SEjW/Foodies-Networking----Website-UI-Design?node-id=2-7&viewport=347%2C-295%2C0.18&t=vustpR7Tc8qbIIZA-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+
 
 ### Project Highlights
 
