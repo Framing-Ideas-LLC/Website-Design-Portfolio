@@ -24,9 +24,6 @@ The website uses a dark black background combined with warm gold accents to crea
 
 The website is designed to showcase DJ Infame's services, experience, past events, and music-focused work while encouraging visitors to explore the services and book an event.
 
-## Figma Proto Link
-
-https://www.figma.com/proto/XgMRTQWnuGUfNUM9X62Y77/DJ-Infame-Landing-page?node-id=0-3&t=4uMgWFRgC2QK0P9t-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Sections
 
