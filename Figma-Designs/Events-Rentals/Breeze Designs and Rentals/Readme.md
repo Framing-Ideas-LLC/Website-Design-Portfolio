@@ -4,8 +4,7 @@
 
 This website concept was designed to capture the beauty and creativity of the brand through a refined, visual-first experience. Elegant typography, immersive event photography, sophisticated layouts, curated service sections, and clear calls to action create an engaging journey that allows visitors to explore the brand's work, discover rental options, and begin planning their own event.
 
-### Prototype Link:
-https://www.figma.com/proto/MWeQcbKPSRJ9ty9Hq7o6VK/Breeze-Designs-and-Rentals---Website-UI-Design?node-id=3-2&viewport=413%2C54%2C0.27&t=Pgt6owP5OvBhw5Fk-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+
 
 ### Project Highlights
 
