@@ -4,8 +4,6 @@
 
 The website is crafted to highlight fractional HR leadership, strategic HR consulting, people management, workplace solutions, and customized support while delivering a seamless experience across all devices. Clean layouts, confident typography, professional imagery, and structured content create a sophisticated digital experience that communicates expertise, flexibility, and measurable business value.
 
-### Prototype Link:
-https://www.figma.com/proto/g9I0KTIwlK2Zs9VlqR5blr/SASHN---Website-UI-Design?node-id=3-4&p=f&viewport=252%2C-96%2C0.15&t=cuDvHplb3LaRVMTe-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Project Highlights
 
