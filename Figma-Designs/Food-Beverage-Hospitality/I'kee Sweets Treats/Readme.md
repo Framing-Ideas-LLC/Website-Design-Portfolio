@@ -21,9 +21,7 @@ A modern bakery and cake shop website designed to showcase handcrafted cakes, de
 
 The design uses a clean white layout with purple and pink accents, decorative floral elements, large food photography, and elegant typography. Product images are presented prominently to keep the focus on the bakery's offerings.
 
-## Figma Proto Link
 
-https://www.figma.com/proto/VJEzD6tDvCVQwGTOIu0amP/I-kee-Sweets-Treats?node-id=9-691&t=LENOzgh1Rn56reXW-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Sections
 
