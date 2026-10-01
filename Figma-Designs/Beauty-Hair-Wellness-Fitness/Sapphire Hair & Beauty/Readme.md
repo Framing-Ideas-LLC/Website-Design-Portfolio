@@ -25,9 +25,6 @@ The design uses a clean and spacious layout with a combination of serif and scri
 
 Large photography sections and custom image compositions help tell the story of the brand while maintaining a warm and professional user experience.
 
-## Figma Proto Link
-
-https://www.figma.com/proto/ooIUBUY0CB3A5E3Fj9cmwr/Sapphire-Hair---Beauty-Landing-Page?node-id=238-2&t=2hwZG8sb0Bi8yFDX-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Focus
 
