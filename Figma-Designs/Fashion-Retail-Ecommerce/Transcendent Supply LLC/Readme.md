@@ -4,8 +4,6 @@
 
 The website is crafted to communicate Transcendent Supply's commitment to working exclusively with authorized sellers and maintaining strict **Minimum Advertised Price (MAP)** compliance. Clean layouts, structured content, strong typography, and a professional visual direction create a trustworthy digital experience built around brand protection and marketplace control.
 
-### Prototype Link:
-https://www.figma.com/proto/1sf8dBt0jUrmlpYNSf7P0n/Transcendent-Supply-LLC---Website-UI-Design?node-id=11-662&viewport=314%2C44%2C0.08&t=NUAXouF6KXTlEsT9-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Project Highlights
 
