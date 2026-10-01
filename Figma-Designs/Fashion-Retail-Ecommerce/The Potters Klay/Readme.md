@@ -4,8 +4,6 @@
 
 The website is crafted to highlight home health care services, the organization's mission, caregiver support, client resources, and key differentiators while delivering a seamless experience across all devices. Warm visuals, accessible layouts, clear content hierarchy, and intuitive navigation create a welcoming journey for families seeking dependable care and support at home.
 
-### Prototype Link:
-https://www.figma.com/proto/LvRrhdkCGPV8dkirDNbf3X/The-Potters-Klay-Home-Health-Care-Agency---Website-UI-Design?node-id=8-2&p=f&viewport=573%2C-242%2C0.41&t=1Z05IPCiPgOlfDcP-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Project Highlights
 
