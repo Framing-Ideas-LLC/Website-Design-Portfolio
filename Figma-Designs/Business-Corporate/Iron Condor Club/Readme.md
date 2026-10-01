@@ -27,9 +27,6 @@ The design follows a clean, minimal, and premium approach. A dark background com
 
 The use of large typography, geometric shapes, circular elements, and market visualizations gives the website a modern and distinctive identity.
 
-## Figma Proto Link
-
-https://www.figma.com/proto/wex62g64RxNZ5E5ArlbfMY/Iron-Condor-Club?node-id=4-1424&t=nw3vNKRd88rDRMML-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Purpose
 
