@@ -4,8 +4,7 @@
 
 The website is crafted to highlight assisted living services, resident care, daily activities, facility amenities, staff expertise, family resources, and admissions information while delivering a seamless experience across all devices. Warm visuals, accessible layouts, calming imagery, and intuitive navigation create a welcoming digital journey for families exploring dependable care options for their loved ones.
 
-### Prototype Link:
-https://www.figma.com/proto/sxNn1YaFITkIYb9mf9scuK/Liberty-Care-Assisted-Living---Website-UI-Design?node-id=2-7&viewport=291%2C62%2C0.09&t=0DvYIWDMHd3agUPg-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+
 
 ### Project Highlights
 
