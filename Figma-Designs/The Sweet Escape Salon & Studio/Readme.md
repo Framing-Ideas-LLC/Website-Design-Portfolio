@@ -27,9 +27,7 @@ The website uses a soft, elegant aesthetic with warm neutral backgrounds, dark s
 
 The overall layout is designed to communicate luxury, comfort, trust, and relaxation while keeping the booking journey simple and clear.
 
-## Figma Proto Link
 
-https://www.figma.com/proto/qTGGflJDbHsEsoIGhNtU4Y/The-Sweet-Escape-Salon---Studio?node-id=2-182&t=RsYmCr7gbFM3HoaQ-1
 
 ## Goal
 
