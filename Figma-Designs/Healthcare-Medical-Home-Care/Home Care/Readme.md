@@ -31,9 +31,7 @@ A modern and responsive home care services website designed to provide a warm, t
 
 The design uses a clean healthcare-focused layout with a light background, blue accent color, large photography, clear typography, and structured content sections to create a professional and welcoming feel.
 
-## Figma Proto Link
 
-https://www.figma.com/proto/zcCa9xM88wI7iZsdg0nTGb/Home-Care?node-id=2-2&t=ngG8NPVIylzaV6tL-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Purpose
 
