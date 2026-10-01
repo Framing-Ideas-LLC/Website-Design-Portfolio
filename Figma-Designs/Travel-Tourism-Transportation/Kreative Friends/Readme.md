@@ -4,8 +4,7 @@
 
 The website is crafted to highlight party bus services, special events, group transportation, premium amenities, and customized experiences while delivering a seamless experience across all devices. Bold visuals, celebratory layouts, intuitive navigation, and experience-focused storytelling create an engaging journey for customers planning memorable events with friends, family, or colleagues.
 
-### Prototype Link:
-https://www.figma.com/proto/OOVoXJZ8XNRqn0pqd3qDfq/Kreative-Friends-Transportation---Website-UI-Design?node-id=2-2&viewport=910%2C-9257%2C0.51&t=p33tjkwEavJPcQz3-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+
 
 ### Project Highlights
 
