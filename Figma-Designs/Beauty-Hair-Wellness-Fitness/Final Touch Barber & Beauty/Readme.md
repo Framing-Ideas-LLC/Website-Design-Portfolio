@@ -4,8 +4,6 @@
 
 The website is crafted to highlight grooming services, beauty treatments, barber expertise, locations, pricing, and appointment booking while delivering a seamless experience across all devices. Sleek visuals, modern typography, high-quality imagery, and clean layouts create a sophisticated digital experience that reflects the premium atmosphere of Final Touch.
 
-### Prototype Link:
-https://www.figma.com/proto/Kx7QC9ZhOFbwnRMIVfyaeX/Final-Touch-Barber---Beauty---Website-UI-Design?page-id=0%3A1&node-id=1-4&p=f&viewport=282%2C45%2C0.1&t=yG67IdCJLj3pTVc8-1&scaling=scale-down-width&content-scaling=fixed
 
 ### Project Highlights
 
