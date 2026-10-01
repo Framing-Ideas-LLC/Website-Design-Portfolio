@@ -4,8 +4,7 @@
 
 The website is crafted to highlight podcast episodes, featured conversations, host information, guest appearances, topics, and media content while delivering a seamless experience across all devices. Bold visuals, engaging layouts, intuitive navigation, and content-focused storytelling create an immersive journey for listeners discovering new conversations and ideas.
 
-### Prototype Link:
-https://www.figma.com/proto/C2Z9zY6GzxxNeiA6ujVneO/SkyeBoxx-Conversation---Website-UI-Design?node-id=6-2&p=f&viewport=267%2C29%2C0.74&t=GQHrfRCE92g0ydIM-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+
 
 ### Project Highlights
 
