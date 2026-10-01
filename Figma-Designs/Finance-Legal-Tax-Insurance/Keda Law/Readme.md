@@ -4,8 +4,7 @@
 
 The website is crafted to showcase legal services, practice areas, attorney expertise, client resources, and consultation opportunities while delivering a seamless experience across all devices. Professional layouts, clean typography, intuitive navigation, and trust-focused design elements create an engaging journey that helps clients better understand their options and navigate the legal process with ease.
 
-### Prototype Link:
-https://www.figma.com/proto/DVeHpVdTzHiRV4trz6hlcv/Keda-Law-Website-UI-Design?node-id=60-2305&viewport=-757%2C540%2C0.32&t=kdeZAnBhoRvSKprN-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+
 
 ### Project Highlights
 
