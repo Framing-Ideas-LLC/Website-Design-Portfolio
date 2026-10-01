@@ -22,9 +22,6 @@ The website presents Zona’s Holistic Pet Nutrition as a professional pet welln
 
 The design follows a modern, minimal, and pet-friendly approach. Soft green tones, white backgrounds, rounded cards, subtle decorative elements, and high-quality pet photography create a calm and natural visual identity. Clear typography and generous spacing make the website easy to browse while green CTA buttons keep important actions prominent.
 
-## Figma Proto Link
-
-https://www.figma.com/proto/8iLvg6Om6mnprNopWIxzv0/Zona-s-Holistic-Pet-Nutrition?node-id=1-2&t=jzVNjPBWdHobbOwg-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Purpose
 
