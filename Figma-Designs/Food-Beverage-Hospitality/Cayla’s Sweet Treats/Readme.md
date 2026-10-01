@@ -37,10 +37,6 @@ A modern and playful bakery website designed to showcase handmade desserts, best
 * Instagram gallery
 * Structured footer navigation
 
-## Figma Proto Link
-
-https://www.figma.com/proto/836ZTDxdX8HT0HTta2a6HM/Caylasweetreats-Landing-Page?node-id=5-1310&t=CerbdDUgYsmnXiww-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
-
 ## Purpose
 
 The website is designed to build a strong visual identity for Cayla Sweet Treats while making it easy for visitors to discover products, explore best sellers, learn more about the brand, and get in touch.
