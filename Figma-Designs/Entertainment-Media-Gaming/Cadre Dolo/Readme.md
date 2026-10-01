@@ -4,8 +4,7 @@
 
 The website is crafted to showcase Cadre Dolo's music, latest releases, artist story, visuals, merchandise, events, and social presence while delivering a seamless experience across all devices. Dark cinematic imagery, bold typography, metallic-inspired accents, subtle gritty textures, and immersive layouts create a premium digital experience that reflects the artist's independent spirit and Tennessee roots.
 
-### Prototype Link:
-https://www.figma.com/proto/mMbCanw6iUF4CvGlfwwxkz/Cadre-Dolo---Website-UI-Design?node-id=1-2&viewport=273%2C190%2C0.13&t=Gda8a7jooupH7UaO-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+
 
 ### Project Highlights
 
