@@ -26,9 +26,6 @@ The design focuses on presenting the company's real estate services, investment 
 
 The website uses a modern corporate and luxury-inspired design. Large real estate imagery, clean typography, spacious layouts, dark sections, and subtle gold accents create a premium investment-focused experience.
 
-## Figma Proto Link
-
-https://www.figma.com/proto/4tuUOCSyzeT5i0vFbKnRDF/Magnolia-Venture-investment-LLC?node-id=63-2&t=RljhEZYH3WtU0lzV-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Purpose
 
