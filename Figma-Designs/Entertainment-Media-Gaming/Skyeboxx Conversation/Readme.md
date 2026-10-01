@@ -34,9 +34,7 @@ The design focuses on a bold podcast aesthetic with:
 * Card-based layouts for podcast episodes
 * Decorative background patterns and graphic elements
 
-## Figma Proto Link
 
-https://www.figma.com/proto/h7V91Zng7GtJzL9zAV2R5D/Skyeboxx-Conversation?node-id=255-2&t=kAbWTMXx0HButK2O-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Sections
 
