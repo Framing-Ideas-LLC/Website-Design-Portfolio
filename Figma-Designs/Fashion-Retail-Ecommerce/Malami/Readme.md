@@ -32,9 +32,7 @@ The website concludes with a promotional feature section and a detailed footer c
 * Newsletter subscription
 * Complete eCommerce navigation and footer
 
-## Figma Proto Link
 
-https://www.figma.com/proto/VbuoozsrNwqgghXmh4GVl5/Malami?node-id=1-2&t=M5LFrNlX8Mf0pJEN-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Design Style
 
