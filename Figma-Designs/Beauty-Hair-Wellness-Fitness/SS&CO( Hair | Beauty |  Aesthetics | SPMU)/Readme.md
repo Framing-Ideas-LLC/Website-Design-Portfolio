@@ -18,9 +18,6 @@ The website presents the brand through a clean, premium layout with a soft neutr
 * Contact and business information
 * Clean and consistent visual branding
 
-## Figma Proto Link
-
-https://www.figma.com/proto/efMhqB38j4keXqVAM0H5Qq/SS-CO--Hair-%7C-Beauty-%7C--Aesthetics-%7C-SPMU-?node-id=6-1278&t=8pwptLyIbFPBRiyL-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Design
 
