@@ -4,8 +4,6 @@
 
 The website is crafted to highlight companion care services, personalized assistance, flexible care options, caregiver support, and the company's compassionate approach while delivering a seamless experience across all devices. Warm photography, calming visuals, accessible typography, and welcoming layouts create a reassuring digital experience built around trust, dignity, and genuine human connection.
 
-### Prototype Link:
-https://www.figma.com/proto/7dZZrdrIJU0PjaLdHsI20R/Circle-of-Care-Companion---Website-UI-Design?node-id=2-2&viewport=321%2C45%2C0.08&t=fyJ5BMqwCGwjrgiO-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Project Highlights
 
