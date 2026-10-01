@@ -4,8 +4,7 @@
 
 The website is crafted to highlight dance programs, classes, instructors, performance opportunities, student development, and academy values while delivering a seamless experience across all devices. Dynamic photography, expressive typography, energetic layouts, and engaging visual elements create an immersive digital experience that reflects the passion and confidence of the academy.
 
-### Prototype Link:
-https://www.figma.com/proto/7X3cjUsg0EsNHGJvLS3Ma6/Total-Technique-Academy---Website-UI-Design?node-id=6-2&viewport=322%2C45%2C0.08&t=cNerPXoJ58Y4gfFv-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+
 
 ### Project Highlights
 
