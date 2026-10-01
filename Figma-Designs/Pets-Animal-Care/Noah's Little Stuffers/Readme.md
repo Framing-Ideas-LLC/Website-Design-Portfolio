@@ -4,8 +4,7 @@
 
 The website is crafted to highlight mobile workshop services, event packages, customization options, booking information, and the unique experience behind each celebration. Bright visuals, playful typography, cheerful imagery, and engaging layouts create a welcoming digital experience designed to appeal to both children and parents.
 
-### Prototype Link:
-https://www.figma.com/proto/42VLu36zY7cPPS8tEB2Zi7/Noah-s-Little-Stuffers---Website-UI-Design?node-id=251-3135&p=f&viewport=-1039%2C-405%2C0.67&t=ZxSPvVzN61xARaYd-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+
 
 ### Project Highlights
 
