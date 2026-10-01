@@ -39,7 +39,6 @@ This project features a calming visual style with soft neutral colors, elegant t
 * Component-Based Design
 * Responsive Design Principles
 
-Figma Proto link: https://www.figma.com/proto/VkaNkrJm65FoqIy3XD86g7/C-A-Behavioral-Health?node-id=71-2&t=v7RvpjIEMTocV2SD-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Purpose
 
