@@ -42,9 +42,7 @@ The design uses a premium editorial aesthetic with:
 * Clear content hierarchy
 * Minimal and refined UI elements
 
-## Figma Proto Link
 
-https://www.figma.com/proto/HOn78nOYGs76rPk2a412c5/Go-Fetch?node-id=1-104&t=ftsKWmngLbc5mOtu-1
 
 ## Website Structure
 
