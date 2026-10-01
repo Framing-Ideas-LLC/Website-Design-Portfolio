@@ -26,9 +26,7 @@ The website combines a warm editorial style with a modern e-commerce experience.
 * Subtle borders and spacing
 * Handmade and premium visual aesthetic
 
-## Figma Proto Link
 
-https://www.figma.com/proto/GFDCSRF9jtYHz9p3PAmpsb/Enchanting-Crafts?node-id=1-436&t=0kZcygOAyRYdzJui-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Features
 
