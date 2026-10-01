@@ -26,9 +26,6 @@ The design focuses on presenting the company's real estate services, investment 
 
 The website uses a modern corporate and luxury-inspired design. Large real estate imagery, clean typography, spacious layouts, dark sections, and subtle gold accents create a premium investment-focused experience.
 
-## Figma Proto Link
-
-https://www.figma.com/proto/NBlxzIQgBvs6w6leU061bG/Magnolia-Capital-Group?node-id=1-2&t=uUI160MdGSNKkwbu-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Purpose
 
