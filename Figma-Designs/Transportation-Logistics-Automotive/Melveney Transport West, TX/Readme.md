@@ -94,9 +94,6 @@ The website follows a modern industrial e-commerce design approach. The main des
 * Responsive design
 * Clear call-to-action buttons
 
-## Figma Proto Link
-
-https://www.figma.com/proto/KWqo7yAK3CFAsTXNuYKreT/Melveney-Transport-West--TX?node-id=11-2&t=GwnA3l8878mHZrCx-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Technologies
 
