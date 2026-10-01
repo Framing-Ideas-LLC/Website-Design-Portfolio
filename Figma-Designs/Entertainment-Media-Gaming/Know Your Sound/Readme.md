@@ -4,8 +4,6 @@
 
 The website is crafted to highlight sound demos, tone comparisons, gear reviews, instrument showcases, featured equipment, and educational content while delivering a seamless experience across all devices. Bold music-inspired visuals, immersive audio-focused layouts, expressive typography, and intuitive navigation create an engaging digital experience centered around the sound behind every instrument.
 
-### Prototype Link:
-https://www.figma.com/proto/z5iU7sLLuf1Na85bGAIJ7A/Know-Your-Sound---Website-UI-Design?node-id=2-7&viewport=47%2C-99%2C0.13&t=qnklyBet6m83dntZ-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Project Highlights
 
