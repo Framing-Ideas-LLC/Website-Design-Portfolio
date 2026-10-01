@@ -4,8 +4,7 @@
 
 The website is crafted to highlight consulting services, technology solutions, industry expertise, client success stories, and partnership opportunities while delivering a seamless experience across all devices. Clean layouts, modern visuals, intuitive navigation, and a professional design system create an engaging journey for organizations seeking trusted technology guidance.
 
-### Prototype Link:
-https://www.figma.com/proto/3fNm9C2wkBmVCpzwqABTeF/UiSAT---Website-UI-Design?node-id=1-167&viewport=129%2C-253%2C0.69&t=6gQXPZPdRRAUcdok-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+
 
 ### Project Highlights
 
