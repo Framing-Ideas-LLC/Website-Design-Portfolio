@@ -19,9 +19,7 @@ The design uses a clean and trustworthy layout with a combination of dark navy, 
 * Contact information and message form
 * Accreditation and provider details
 
-## Figma Proto Link
 
-https://www.figma.com/proto/bDfzRRr3QKF125O1azHL7V/R.-E.A.C.H?node-id=1-564&t=98cNdPMLvwm2eHUt-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Design Features
 
