@@ -17,9 +17,6 @@ A modern, responsive website design for Hard Knox Epoxy, a premium epoxy floorin
 
 The website uses a clean industrial aesthetic with a dark and white color combination, supported by vibrant orange accents. Large imagery, bold typography, rounded cards, and clear content sections create a premium and professional look.
 
-## Figma Proto Link
-
-https://www.figma.com/proto/GBtEG9s27N7VF6beWpf66o/Hard-Knox-Epoxy?node-id=1-1735&t=QF480mhe3fgH7I4B-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Technologies
 
