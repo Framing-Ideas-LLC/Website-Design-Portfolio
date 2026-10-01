@@ -4,8 +4,7 @@
 
 The website is crafted to highlight tax resolution services, debt relief solutions, expert guidance, consultation options, client resources, and the process of resolving tax issues while delivering a seamless experience across all devices. Professional visuals, clear layouts, reassuring messaging, and intuitive navigation create an engaging journey for clients seeking clarity and a path toward financial freedom.
 
-### Prototype Link:
-https://www.figma.com/proto/Uqu1qvMwgqwoApDyfTvrmT/Alleviation---Website-UI-Design?node-id=13-2&p=f&viewport=193%2C-49%2C0.52&t=hdmecGyV9GdI39Vm-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+
 
 ### Project Highlights
 
