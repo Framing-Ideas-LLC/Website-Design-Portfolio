@@ -4,8 +4,7 @@
 
 The website is crafted to present the company's services, investment approach, expertise, portfolio, insights, and opportunities through a refined and intuitive user experience. A premium visual system, confident typography, structured layouts, and clear information hierarchy create a polished experience designed to build trust with investors, business owners, and prospective partners.
 
-### Prototype Link:
-https://www.figma.com/proto/3ZZqj7A1Bphak1j3NsjdvD/Magnolia-Capital-Group---Website-UI-Design?page-id=0%3A1&node-id=2-3&viewport=396%2C45%2C0.16&t=cOW1G5fXZzLl8Ktp-1&scaling=min-zoom&content-scaling=fixed
+
 
 ### Project Highlights
 
