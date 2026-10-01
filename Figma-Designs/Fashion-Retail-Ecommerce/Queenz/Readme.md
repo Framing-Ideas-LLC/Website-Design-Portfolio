@@ -4,8 +4,7 @@
 
 The website is crafted to highlight mentorship programs, educational opportunities, community initiatives, workshops, events, and personal development resources while delivering a seamless experience across all devices. Confident typography, uplifting imagery, vibrant layouts, and encouraging messaging create an engaging digital experience centered around growth, empowerment, and belonging.
 
-### Prototype Link:
-https://www.figma.com/proto/KQ5zOvGR129knJJfvylRg2/Queenz---Website-UI-Design?node-id=1-2&viewport=170%2C84%2C0.3&t=DWqlduDK8XAdN3FS-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+
 
 ### Project Highlights
 
