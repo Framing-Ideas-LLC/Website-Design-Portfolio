@@ -4,8 +4,7 @@
 
 The website is crafted to highlight available services, consumer resources, helpful guidance, educational content, and actionable opportunities while delivering a seamless experience across all devices. Clear layouts, approachable visuals, strong content hierarchy, and intuitive navigation create an engaging journey that helps users understand their options and take informed steps forward.
 
-### Prototype Link:
-https://www.figma.com/proto/tsEaeYLjNDuvsFbiTmYrkj/SBC-Solutions-LLC---Website-UI-Design?node-id=1-23&viewport=357%2C61%2C0.06&t=O3wWVdV0RME9Hjr4-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+
 
 ### Project Highlights
 
