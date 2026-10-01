@@ -31,9 +31,6 @@ The website presents Whitsundays Fabrication’s services, completed projects, e
 
 The website uses a modern architectural aesthetic with strong typography, high-quality project imagery, dark navy sections, and clean white layouts. The overall design is focused on professionalism, readability, and showcasing completed fabrication work.
 
-## Figma Proto Link
-
-https://www.figma.com/proto/6muL4JLR3U8ld6LIj1jNsA/Powder-Kote?node-id=1-584&t=3kyhrIoKzpn06Omx-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Technologies
 
