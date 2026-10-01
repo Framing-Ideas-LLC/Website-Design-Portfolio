@@ -40,9 +40,6 @@ A modern and premium interior design website for CLJ Interiors, focused on resid
 
 The website uses a premium interior-design aesthetic with large photography, dark sections, warm gold accents, clean layouts, rounded cards, and strong visual hierarchy.
 
-## Figma Proto Link
-
-https://www.figma.com/proto/IgiHPG5w4rR2uMnbATefOj/CLJ-Interiors?node-id=58-389&t=Gh47TH0inqwxXbK8-1
 
 ## Purpose
 
