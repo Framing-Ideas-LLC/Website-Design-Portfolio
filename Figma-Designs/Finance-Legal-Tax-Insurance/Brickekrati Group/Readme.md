@@ -63,9 +63,7 @@ Brickekrati Group is a modern corporate business consulting website designed to 
 * Conversion-focused CTA placement
 * Mobile-friendly design
 
-## Figma Proto Link
 
-https://www.figma.com/proto/rVUemZrnQo97NU62PQ3uUj/Brickeertati-group?node-id=15-14&p=f&t=06nhlf2lKxDXaSFI-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Best For
 
