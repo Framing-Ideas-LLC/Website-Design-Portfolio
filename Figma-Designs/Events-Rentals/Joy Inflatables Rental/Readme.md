@@ -4,8 +4,7 @@
 
 The website is crafted to highlight bounce houses, water and dry slides, tables, chairs, concession machines, rental packages, service areas, and booking options. Bright event photography, playful typography, vibrant layouts, and clear calls to action create an engaging digital experience that captures the fun and family-friendly personality of Joy Inflatables.
 
-### Prototype Link:
-https://www.figma.com/proto/u7kfQNoMft9c7sodbiBePt/Joy-Inflatables-Rental---Website-UI-Design?node-id=1-2&p=f&viewport=68%2C-465%2C0.39&t=sXZUuwvk3pmLMR6F-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+
 
 ### Project Highlights
 
