@@ -34,9 +34,6 @@ A modern and professional website designed for a drone photography, aerial inspe
 
 The website uses a clean, modern layout with large drone photography, dark image-based sections, soft pink accent colors, and strong typography. The combination of aerial imagery and structured content creates a professional presentation for a drone inspection and photography business.
 
-## Figma Proto Link
-
-https://www.figma.com/proto/CxBA9R5d5TvuZwzFAw7vrn/Drone-Camera-Inspection?node-id=2-2&t=DS1JUw4w5WIT74vM-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Purpose
 
