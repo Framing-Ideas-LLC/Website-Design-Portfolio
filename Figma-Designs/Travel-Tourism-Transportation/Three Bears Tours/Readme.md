@@ -4,8 +4,6 @@
 
 The website is crafted to highlight Papa Bear treks, Mama Bear wanders, and Baby Bear rambles while showcasing local guides, scenic destinations, tour experiences, difficulty levels, and booking options. Immersive outdoor photography, earthy visual elements, friendly typography, and adventure-focused layouts create an engaging digital experience that captures the spirit of exploration.
 
-### Prototype Link:
-https://www.figma.com/proto/OJPdgqi1xIZgBTWCRCMAJx/Three-Bears-Tours---Website-UI-Design?node-id=4-2&viewport=165%2C116%2C0.28&t=MQrYe7uJ3uVfNOwr-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Project Highlights
 
