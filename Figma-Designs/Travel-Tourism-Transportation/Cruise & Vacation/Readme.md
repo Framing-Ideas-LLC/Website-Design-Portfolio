@@ -20,9 +20,7 @@ A modern and premium cruise travel website designed to help users discover, comp
 
 The website uses a clean luxury travel aesthetic with deep navy blue, ocean blue, white, and light blue tones. Large cruise photography creates a strong visual focus, while serif-style headings give the website an elegant and premium feel. Light backgrounds and generous spacing keep the content easy to browse.
 
-## Figma Proto Link
 
-https://www.figma.com/proto/xBLzYxdNjNckuDylirMTzn/Cruise---Vacation?node-id=132-54&t=PU2rP8sgtgZBtVvI-0&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Purpose
 
