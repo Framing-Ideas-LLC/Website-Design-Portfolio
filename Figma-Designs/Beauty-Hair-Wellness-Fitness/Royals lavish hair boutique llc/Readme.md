@@ -34,9 +34,7 @@ The website uses a dark, sophisticated visual style combined with gold accents t
 
 The website is designed to establish Royals Lavish Hair Boutique LLC as a premium hair and beauty brand while making it easy for customers to explore collections, learn about the brand, and place an order.
 
-## Figma Proto Link
 
-https://www.figma.com/proto/AUdGH7eTOIOq8UEnCMSAkw/Royals-lavish-hair-boutique-llc?node-id=2-500&t=lVTMGCetz0LsP74Z-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Tech Stack
 
