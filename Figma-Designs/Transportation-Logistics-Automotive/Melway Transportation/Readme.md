@@ -23,10 +23,9 @@ The design features a bold and structured layout with a dark theme, strong red a
 ## Design Style
 
 The website uses a bold visual identity built around black, white, and red. Large vehicle photography creates a strong connection to the transportation industry, while clean layouts and structured content blocks keep the experience professional and easy to navigate.
-
 ## Figma Proto Link
 
-https://www.figma.com/proto/vncQP2Hs9C689HXHgJG6dg/Melway-Transportation?node-id=1-2&t=DbMj6xbCesnqzK08-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
+
 
 ## Purpose
 
