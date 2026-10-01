@@ -21,9 +21,6 @@ A premium, editorial-style website designed for a handcrafted junk journal brand
 
 The design uses a warm, handcrafted aesthetic with neutral backgrounds, brown and beige accents, editorial typography, and photography focused on journals, paper textures, craftsmanship, and creative storytelling.
 
-## Figma Proto Link
-
-https://www.figma.com/proto/GdDk4c7VlM5n0xv7QFrOGR/Junk-Journals?node-id=100-341&t=6ORoSz1QCVBBLti6-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Purpose
 
