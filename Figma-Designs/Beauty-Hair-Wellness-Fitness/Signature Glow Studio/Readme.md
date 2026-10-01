@@ -4,8 +4,6 @@
 
 The website is crafted to highlight personalized aesthetic treatments, skincare consultations, treatment plans, practitioner expertise, client transformations, and booking options while delivering a seamless experience across all devices. Refined beauty imagery, soft visual elements, elegant typography, and clean layouts create a premium digital experience centered around trust, personalization, and natural confidence.
 
-### Prototype Link:
-https://www.figma.com/proto/VFQGYkBTito9f1fTE0ePsu/Signature-Glow-Studio---Website-UI-Design?node-id=5-2&viewport=234%2C204%2C0.15&t=l6Tr2ygL2S1ugClC-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Project Highlights
 
