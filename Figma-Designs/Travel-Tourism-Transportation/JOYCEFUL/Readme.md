@@ -27,9 +27,7 @@ The website features a clean and elegant travel-inspired design with a soft whit
 
 The typography combines a refined serif style with handwritten script fonts to create a personal and premium visual identity. Large high-quality travel images are used to make the website more immersive and engaging.
 
-## Figma Proto Link
 
-https://www.figma.com/proto/k5UZnQDBLkejd69Dhbqiqe/JOYCEFUL?node-id=80-2&t=bw1vZKOy6VGpLTsL-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Purpose
 
