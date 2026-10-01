@@ -18,9 +18,7 @@ A modern cycling community website designed to promote cycling, community engage
 
 The website uses a dark, premium visual style with cycling photography, bold typography, green accent colors, and structured content sections to create an energetic community-focused experience.
 
-## Figma Proto Link
 
-https://www.figma.com/proto/6DjkH2RcNvSvGJDgkBai3e/We-Bike-Global?node-id=1-479&t=1BBwyBsV5HqyUtv8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Sections
 
