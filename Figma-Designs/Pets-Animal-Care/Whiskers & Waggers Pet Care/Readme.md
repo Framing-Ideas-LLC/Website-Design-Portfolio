@@ -4,8 +4,7 @@
 
 The website is crafted to highlight pet care services, sitter information, service areas, booking options, and client experiences while delivering a seamless experience across all devices. Playful visuals, friendly layouts, intuitive navigation, and pet-focused storytelling create an engaging journey for pet owners looking for dependable care for their furry family members.
 
-### Prototype Link:
-https://www.figma.com/proto/X6N7YVuxLynIPJWGC6mp1K/Whiskers---Waggers-Pet-Care---Website-UI-Design?node-id=3-8&p=f&viewport=248%2C54%2C0.21&t=1ZrrIgMjxhK08svG-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+
 
 ### Project Highlights
 
