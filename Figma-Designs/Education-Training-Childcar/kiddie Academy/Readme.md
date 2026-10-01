@@ -21,9 +21,7 @@ The website presents information about the academy, its educational approach, se
 * Contact form for parents and inquiries
 * Footer with navigation links, resources, and contact details
 
-## Figma Proto Link
 
-https://www.figma.com/proto/VLRwsiOoAtadXjDYj3WwwB/kiddie-Academy--Landing-Page-?node-id=169-2&t=fbBNE62N8PyPcZJl-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Design Style
 
