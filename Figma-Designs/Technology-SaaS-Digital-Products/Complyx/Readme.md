@@ -4,8 +4,7 @@
 
 The website is crafted to highlight security compliance consulting services, risk management, compliance assessments, security frameworks, implementation support, and expert guidance while delivering a seamless experience across all devices. Professional visuals, structured layouts, clear information hierarchy, and intuitive navigation create an engaging journey for organizations seeking practical solutions to strengthen their compliance posture.
 
-### Prototype Link:
-https://www.figma.com/proto/RDXQ4X4uKRDHkXccItjBar/Complyx---Website-UI-Design?node-id=402-863&viewport=347%2C241%2C0.1&t=MmHk0V6oqWZC20bg-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=402%3A863
+
 
 ### Project Highlights
 
