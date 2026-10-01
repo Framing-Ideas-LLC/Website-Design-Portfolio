@@ -4,8 +4,6 @@
 
 The website is crafted to highlight personal care services, senior support, disability assistance, caregiver resources, care plans, service areas, and client support while delivering a seamless experience across all devices. Warm imagery, calming layouts, accessible typography, and intuitive navigation create a reassuring journey for individuals and families seeking dependable home care.
 
-### Prototype Link:
-https://www.figma.com/proto/TUQ9AgOZ5KAS8KPRdRoF5o/Ollie-Mae-s-Home-Care---Website-UI-Design?node-id=1-9&p=f&viewport=-4225%2C-798%2C0.92&t=4b4lkKhq6PLM3Zyp-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Project Highlights
 
