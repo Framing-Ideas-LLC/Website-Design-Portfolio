@@ -17,9 +17,6 @@ The layout uses soft neutral tones, elegant typography, rounded content cards, a
 * Newsletter Subscription
 * Footer
 
-## Figma Proto Link
-
-https://www.figma.com/proto/ep72H7PYoeVVbNmlGyMPnX/Just-My-Thoughts?node-id=3-2&t=xQoml7z0oEGWFfK8-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ### Design Focus
 
