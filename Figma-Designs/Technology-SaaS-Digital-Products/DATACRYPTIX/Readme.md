@@ -135,9 +135,7 @@ The website layout should be fully responsive and optimized for desktop, tablet,
 
 ## Suggested Technologies
 
-## Figma Proto Link
 
-https://www.figma.com/proto/4xzyDi2uyO9uuotzbBN2tR/DATACRYPTIX?node-id=16-2&t=VYkyfbA1HuPJDhkQ-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 The website can be developed using:
 
