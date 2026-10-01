@@ -4,8 +4,7 @@
 
 The website is crafted to highlight MEP engineering services, project capabilities, technical expertise, design processes, and industry collaboration while delivering a seamless experience across all devices. Clean architectural visuals, technical-inspired layouts, structured content, and professional typography create a credible digital experience for architects, developers, contractors, and property owners.
 
-### Prototype Link:
-https://www.figma.com/proto/nt43uXzGOdnJa3c8c6hw3J/Corris-Consulting---Website-UI-Design?page-id=0%3A1&node-id=1-5&viewport=-277%2C-394%2C0.56&t=XiP1PboBlvB354Pd-1&scaling=scale-down-width&content-scaling=fixed
+
 
 ### Project Highlights
 
