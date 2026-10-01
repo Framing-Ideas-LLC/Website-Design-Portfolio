@@ -22,9 +22,6 @@ The homepage is structured to guide visitors from the main service introduction 
 
 The design uses a minimal and professional interface with large typography, clean spacing, structured service cards, and high-quality imagery. The visual style is focused on trust, professionalism, convenience, and accessibility.
 
-## Figma Proto Link
-
-https://www.figma.com/proto/8fxkw86EVYlqZMV8z2w5WU/HC-Landing-Page?node-id=1-4&t=z4b2mVtFgafcBE9z-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Technologies
 
