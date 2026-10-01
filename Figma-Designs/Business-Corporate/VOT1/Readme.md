@@ -29,9 +29,6 @@ A modern and responsive voting platform website designed to simplify the voting 
 * Contact
 * Footer
 
-## Figma Proto Link
-
-https://www.figma.com/proto/dC4qUrkEHYYeXxCcGFsX3h/VOT1?node-id=16-2&t=toHzTyhOaSzgXlax-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Design
 
