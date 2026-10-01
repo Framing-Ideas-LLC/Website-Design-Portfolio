@@ -27,9 +27,7 @@ The design follows a clean, modern, and fashion-focused visual direction. Large 
 
 The product cards and editorial sections create a balanced mix between e-commerce functionality and fashion storytelling, helping users explore products while maintaining a premium brand experience.
 
-## Figma Proto Link
 
-https://www.figma.com/proto/evHALjgEYN6eVuLpFI16vB/DBF-Fashion?node-id=1-2&t=BQlmDIMU9z8XNqeA-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Purpose
 
