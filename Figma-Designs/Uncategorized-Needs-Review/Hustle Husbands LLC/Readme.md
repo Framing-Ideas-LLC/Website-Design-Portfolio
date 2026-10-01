@@ -18,6 +18,4 @@ Design Highlights
 🎯 Well-organized design system and spacing
 💙 Blue and orange color scheme for a fresh, trustworthy appearance
 
-Designed in: Figma
 
-Figma Proto Link: https://www.figma.com/proto/D6XxGoQOn411HizSIh4JOo/Pressure-washing?node-id=16-2&t=g7w3TP7UmzZLIWzs-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
