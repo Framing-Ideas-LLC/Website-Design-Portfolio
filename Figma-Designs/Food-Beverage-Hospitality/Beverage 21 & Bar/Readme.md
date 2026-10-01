@@ -4,8 +4,7 @@
 
 The website is crafted to highlight the food menu, beverage offerings, atmosphere, events, entertainment, location, and guest experience while delivering a seamless experience across all devices. Bold visuals, vibrant layouts, engaging typography, and intuitive navigation create an immersive journey that gives visitors a taste of the Beverage 21 experience before they arrive.
 
-### Prototype Link:
-https://www.figma.com/proto/HgdYq79Iyrg4RAhVUku8I8/Beverage-21---Bar---Website-UI-Design?node-id=2-3&viewport=194%2C45%2C0.07&t=8MwKCDQKVmq7VF8P-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+
 
 ### Project Highlights
 
