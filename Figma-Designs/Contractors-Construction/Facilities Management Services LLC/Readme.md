@@ -28,9 +28,7 @@ The design focuses on building trust and clearly presenting professional cleanin
 * Tile and Grout Cleaning
 * Upholstery Cleaning
 
-## Figma Proto Link
 
-https://www.figma.com/proto/y8EBGZDUguDfkK73cLPmRr/Facilities-Management-Services-LLC?node-id=2022-2&t=OJPsVdSDVFF1p2Ts-0&scaling=min-zoom&content-scaling=fixed&page-id=2004%3A2
 
 ## Design Style
 
