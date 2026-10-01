@@ -4,8 +4,6 @@
 
 The website is crafted to highlight ceremony services, Sharron's approach, wedding ceremonies, funeral and memorial services, personalised scripts, client stories, and consultation options while delivering a seamless experience across all devices. Emotional photography, elegant typography, spacious layouts, and a refined visual direction create a compassionate digital experience that feels personal and trustworthy.
 
-### Prototype Link:
-https://www.figma.com/proto/ucQmDqibVm5Ur5IAxBB0SS/Sharron-Taylor---Website-UI-Design?node-id=2011-55&viewport=224%2C45%2C0.07&t=pH55Z1eOJKgc0m4X-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
 
 ### Project Highlights
 
