@@ -22,9 +22,7 @@ A modern and professional website designed for The Concrete Guys, a concrete con
 
 The design uses a bold construction-focused visual style with large project photography, strong typography, dark image overlays, and red accent colors. The layout combines clean white sections with dark image-based sections to create visual contrast and maintain a professional construction-industry feel.
 
-## Figma Proto Link
 
-https://www.figma.com/proto/sc80lmjxLrkfZy7AGGMKI1/The-Concrete-Guys?node-id=2-2&t=SayWabCFiPxj8IfW-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Sections
 
