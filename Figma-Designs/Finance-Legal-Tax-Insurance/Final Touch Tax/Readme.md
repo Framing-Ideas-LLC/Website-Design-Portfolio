@@ -4,8 +4,7 @@
 
 The website is crafted to highlight individual and business tax services, professional expertise, tax preparation solutions, client resources, and consultation options while delivering a seamless experience across all devices. Clean layouts, professional visuals, clear information hierarchy, and intuitive navigation create an engaging journey that makes tax services easier to understand and access.
 
-### Prototype Link:
-https://www.figma.com/proto/XgjlePbOixN3PdUEmRmDiw/Final-Touch-Tax---Landing-Page-Design?node-id=4-13&viewport=483%2C71%2C0.12&t=JcRsTaXdATS3LOe2-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+
 
 ### Project Highlights
 
