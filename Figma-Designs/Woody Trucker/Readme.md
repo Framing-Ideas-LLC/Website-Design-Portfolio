@@ -4,8 +4,7 @@
 
 This website concept was designed to create a professional, trustworthy, and service-focused digital experience. Clear service categories, strong calls to action, approachable imagery, bold typography, and an organized layout make it easy for visitors to understand available solutions and quickly connect with the company for their service needs.
 
-### Prototype Link:
-https://www.figma.com/proto/K3MFcnOTQoZx8mFc52bD9W/Woody-Trucker?node-id=11-820&viewport=193%2C173%2C0.2&t=UBLj5ssFLtLSBTeX-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1
+
 
 ### Project Highlights
 
