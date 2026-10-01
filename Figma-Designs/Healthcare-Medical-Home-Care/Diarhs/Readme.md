@@ -4,8 +4,7 @@
 
 The website is crafted to showcase the organization's mission, leadership, community initiatives, professional expertise, resources, and impact while delivering a seamless experience across all devices. Clean layouts, purposeful typography, approachable visuals, and strong storytelling create an engaging digital experience that communicates credibility, compassion, and a commitment to creating healthier and more equitable communities.
 
-### Prototype Link:
-https://www.figma.com/proto/5gR77rERdryZrnZGs7hke6/Diarhs---Website-UI-Revamp?node-id=2-279&viewport=-766%2C-209%2C0.38&t=gbIuadGKTCwCaVro-1&scaling=scale-down-width&content-scaling=fixed&page-id=1%3A4
+
 
 ### Project Highlights
 
