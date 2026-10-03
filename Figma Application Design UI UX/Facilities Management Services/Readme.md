@@ -12,8 +12,7 @@ The FMS app was designed with a focus on **organization, operational efficiency,
 
 A clean dashboard, structured navigation, clear status indicators, and task-focused workflows make it easier for users to understand what requires attention and take action quickly.
 
-### Prototype Link:
-https://www.figma.com/design/yajnCsGBM34mVrwhFHCFne/Facilities-Management-Services--FMS----App-UI-UX-Design?node-id=522-2&t=SWDiZ4So8aCP38Ak-1
+
 
 ## Design Goals
 
