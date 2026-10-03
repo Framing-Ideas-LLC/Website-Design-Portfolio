@@ -10,8 +10,7 @@ The OASIS app was designed with a **speed-first and user-focused approach**, rec
 
 The interface focuses on simplicity, clear service options, location-based assistance, and straightforward actions. A clean visual hierarchy and intuitive navigation help users quickly understand their options and request the appropriate roadside service.
 
-### Prototype Link:
-https://www.figma.com/design/TAlgTyqS6kF5oFSZqMHAuO/OASIS-Roadside-Assistance---App-UI-UX?node-id=413-628
+
 
 ## Design Goals
 
