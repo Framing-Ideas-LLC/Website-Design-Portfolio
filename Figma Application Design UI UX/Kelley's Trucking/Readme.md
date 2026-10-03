@@ -12,8 +12,7 @@ The Kelley's Trucking app was designed with a focus on **efficiency, organizatio
 
 The interface combines structured dashboards, clear navigation, shipment information, delivery tracking, driver-related features, and status-based workflows to help users manage transportation activities with less friction.
 
-### Prototype Link:
-https://www.figma.com/design/YcwoLIzOSiFGhLHqCHyeOq/Kelley-s-Trucking---App-UI-Design?node-id=0-1&t=evvkDAX11Hsg13si-1
+
 
 ## Design Goals
 
